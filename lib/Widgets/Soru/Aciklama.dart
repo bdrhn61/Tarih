@@ -11,6 +11,7 @@ print((yaziAyari).toString()+"---------");
 
 print((yaziBoyutu/yaziAyari).toString()+"---------");
    
+  // ignore: unused_local_variable
   double boy = MediaQuery.of(context).size.height;
   return Expanded(
     child: Container(

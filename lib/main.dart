@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:tarih/gridContainer.dart';
-import 'package:tarih/providers/all_providers.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

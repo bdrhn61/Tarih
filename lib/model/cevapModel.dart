@@ -2,7 +2,6 @@
 //
 //     final cevapModel = cevapModelFromJson(jsonString);
 
-import 'package:meta/meta.dart';
 import 'dart:convert';
 
 CevapModel cevapModelFromJson(String str) => CevapModel.fromJson(json.decode(str));

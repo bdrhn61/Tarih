@@ -4,6 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:tarih/model/cevapModel.dart';
 import 'package:tarih/providers/all_providers.dart';
 
+// ignore: must_be_immutable
 class Yazi extends ConsumerWidget {
   String sik;
   Cevap cevap;

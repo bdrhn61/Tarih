@@ -1,0 +1,288 @@
+{
+    "sorular": [
+        {
+            
+            "numarasi": "1",
+            "soru": "İslamiyet öncesi Türk devletlerinin yönetim anlayışıyla ilgili olarak aşağıdakilerden hangisi söylenemez?",
+            "A": "Hükümdar olma hakkı, hanedanın erkek üyelerine aittir.",
+            "B": "Hükümdar olma yetkisinin tanrısal olduğu inancı vardır.",
+            "C": "Ülke, ikili teşkilatla yönetilmiştir.",
+            "D": "Ülke yönetimi ile ilgili kararlar, kurultayda alınır.",
+            "E": "Hanedanın hükümdar olacak üyesi önceden belirlenir."
+        },
+        {
+            "numarasi": "2",
+            "soru": "Selçukluların, Türk-İslam mimarisine kazandırdığı yapı aşağıdakilerden hangisidir?",
+            "A": "Otağ",
+            "B": "Ribat",
+            "C": "Şadırvan",
+            "D": "Cami",
+            "E": "Kümbet"
+        },
+        {
+            "numarasi": "3",
+            "soru": "Türk-İslam devletlerinde gelirleri; bilim, eğitim, sağlık gibi alanlardaki kurumların yapım ve onarımı ile görevlilerinin maaşlarının ödenmesi için ayrılan arazilere verilen ad aşağıdakilerden hangisidir? ",
+            "A": "Has arazi",
+            "B": "İkta arazi",
+            "C": "Mülk arazi",
+            "D": "Vakıf arazi",
+            "E": "Mirî arazi"
+
+                
+
+        },
+        {
+            "numarasi": "4",
+            "soru": "Aşağıdakilerden hangisinin, Balkanlardaki ahalinin Osmanlı yönetimini kolay kabullenmesinin nedenlerinden biri olduğu söylenemez?",
+            "A": "Osmanlı vergi düzeninin esnekliği",
+            "B": "Gayrimüslimlerin avarızdan muaf tutulması",
+            "C": "Eski yöneticilerin Osmanlı sistemi içine alınması",
+            "D": "Yerleşik ahalinin âdetlerinin dikkate alınması",
+            "E": "İslamiyetin, Hristiyanlara zimmi statüsünü tanıması"
+
+                
+        },
+        {
+            "numarasi": "5",
+            "soru": "Aşağıdakilerden hangisi Osmanlı Devleti’nde fethedilen topraklar üzerinde timar sisteminin uygulanma nedenlerinden biri değildir?",
+            "A": "Fetih hareketlerini hızlandırmak",
+            "B": "Merkezî yönetimi güçlendirmek",
+            "C": "Hassa ordusu oluşturmak",
+            "D": "Ayni vergileri doğrudan tahsil etmek",
+            "E": "Taşra yönetimini yeniden yapılandırmak"
+
+                
+        },
+        {
+            "numarasi": "6",
+            "aciklama":"XVI. yüzyılın sonlarından itibaren girilen yoğun savaş döneminde, Celâli isyanlarının da etkisiyle Osmanlı ekonomisinde bazı sorunlar yaşanmış ve bütçe açıkları ortaya çıkmıştır.",
+            "soru": "Aşağıdakilerden hangisinin bu durumla ilgili bir gelişme olduğu söylenemez? ",
+            "A": "Köylerin boşalmasının",
+            "B": "Yüksek fiyat artışları yaşanmasının",
+            "C": "Akçenin değerinin düşmesinin",
+            "D": "Timarlıların sayısının artmasının",
+            "E": "Ulufelilerin gerçek gelirinin azalmasının"
+
+                
+        },
+        {
+            "numarasi": "7",
+            "soru": "Aşağıdakilerden hangisi, Osmanlı maliyesinde vergilerin şeri ve örfi olarak ayrılmasının sebeplerinden biridir?",
+            "A": "Vergi oranlarının bölgeden bölgeye değişmesi",
+            "B": "Esnaf ve zanaat üretim alanlarının çok çeşitli olması",
+            "C": "Hukuk sisteminde ikili bir yapının bulunması",
+            "D": "Gayrimüslimlerin çift resmi yerine ispençe ödemesi",
+            "E": "Devletin vergi toplama şeklinin zamanla değişmesi"
+
+                
+        },
+        {
+            "numarasi": "8",
+            "soru": "Osmanlı Devleti'nde Karahisarlı Ahmet, Hafız Osman ve Şeyh Hamdullah'ın önde gelen temsilcileri olduğu; kûfi, nesih, sülüs ve ta’lîk gibi çeşitleri bulunan Türk-İslam sanatı aşağıdakilerden hangisidir?",
+            "A": "Hat",
+            "B": "Ebru",
+            "C": "Tezhip",
+            "D": "Minyatür",
+            "E": "Çini"
+                
+        },
+        {
+            "numarasi": "9",
+            "soru": "III. Selim Dönemi’nde aşağıdaki alanların hangisinde ıslahat yapıldığı söylenemez?",
+            "A": "Ordu",
+            "B": "Eğitim",
+            "C": "Diplomasi",
+            "D": "İdare",
+            "E": "Din"
+
+                
+        },
+        {
+            "numarasi": "10",
+            "aciklama" :"1838’de İngiltere ile imzalanan Baltalimanı Ticaret Antlaşması ile Osmanlı Devleti ülke içinde fiyatları kontrol etmek için kullandığı tekel sistemini kaldırdı ve yabancı tüccarların Osmanlı sınırları içinde ticaret yapması serbest bırakıldı. Bununla birlikte İngiliz tacirlere, Osmanlı topraklarında yaptıkları ticarette yerli tacirlerle aynı vergileri ödeme yükümlülüğü getirildi. Ayrıca bu tüccarlara yün, pamuk, ipek, hububat gibi ihracı yasak ya da izne tabi Osmanlı ürünlerini serbestçe ihraç etme hakkı tanındı.",
+            "soru": "Bu antlaşmanın Osmanlı ekonomisi üzerindeki etkileriyle ilgili olarak aşağıdakilerden hangisi söylenemez?",
+            "A": "Kapitülasyonların kapsamı genişletilmiştir.",
+            "B": "Osmanlı ülkesi açık pazar durumuna gelmiştir.",
+            "C": "Osmanlı Devleti’nde yerli sanayi olumsuz etkilenmiştir.",
+            "D": "Osmanlı ülkesinden ham madde çıkışı kolaylaşmıştır.",
+            "E": "Tarımsal üretimde düşüş yaşanmıştır."
+
+                
+        },
+        {
+            "numarasi": "11",
+            "soru": "Osmanlı modernleşme sürecinde ortaya çıkan düşünce akımları ve temsilcileriyle ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+            "A": "Batıcılık - Sait Halim Paşa",
+            "B": "Osmanlıcılık - Namık Kemal",
+            "C": "Türkçülük - Ziya Gökalp",
+            "D": "Batıcılık - Abdullah Cevdet",
+            "E": "Türkçülük - Yusuf Akçura"
+
+                
+        },
+        {
+            "numarasi": "12",
+            "ustsoru":"Osmanlı Devleti’nde Kanunuesasi’nin kabulüyle;",
+            "soru": "gelişmelerinden hangileri yaşanmıştır?",
+            "I":"parlamentolu sisteme geçilmesi,",
+            "II":"tebaanın tüm unsurlarının mecliste temsil edilmesi,",
+            "III":"padişahın yürütme yetkisinin sona ermesi",
+            "A": "Yalnız I",
+            "B": "I ve II",
+            "C": "I ve III",
+            "D": "II ve III",
+            "E": "I, II ve III"
+
+               
+        },
+        {
+            "numarasi": "13",
+            "soru": "Birinci Dünya Savaşı sırasında Osmanlı Devleti tarafından 27 Mayıs 1915’te çıkarılan Sevk ve İskân Kanunu ile aşağıdakilerden hangisi amaçlanmıştır?",
+            "A": "Osmanlı ülkesinde güvenliğin sağlanması",
+            "B": "Vilayet sınırlarının yeniden belirlenmesi",
+            "C": "Doğudaki aşiretler arasındaki anlaşmazlıkların giderilmesi",
+            "D": "Orduya asker alımının düzenlenmesi",
+            "E": "Olası doğal afetler için tedbir alınması"
+
+              
+
+        },
+        {
+            "numarasi": "14",
+            "soru": "Mustafa Kemal Paşa, “Osmanlı Devleti bu mütareke ile kendisini kayıtsız ve şartsız düşmanlara teslim etmeye razı olmuştu.” ifadesini aşağıdakilerden hangisi için kullanmıştır?",
+            "A": "Mudanya Anlaşması",
+            "B": "Montrö Sözleşmesi",
+            "C": "Mondros Anlaşması",
+            "D": "Londra Ön Barışı",
+            "E": "Selanik Anlaşması"
+                
+        },
+        {
+            "numarasi": "15",
+            "aciklama":"Temuçin Öğretmen; “Kuvayımilliye birlikleri, tüm çabalara rağmen askerî bir disiplin ve hiyerarşi içine sokulamamıştır. Bu birlikler düşmana zarar vermiş, ama ilerlemesini durduramamıştır. Her Kuvayımilliye birliği, kendi şefinin emrini dinlemiş, yakaladıkları asileri kendi yöntemleriyle cezalandırmış ve son zamanlarda halktan bazen zorla malzeme alma yoluna gitmiştir. Dolayısıyla devlet düzeni içinde bu tür davranışlar asla hoş görülmemiştir.” demiştir.",
+            "soru": "Bu bilgiyi veren Temuçin Öğretmen, öğrencilerine aşağıdaki konulardan hangisini anlatmaktadır? ",
+            "A": "Kuvayımilliyenin oluşturulma sürecini",
+            "B": "Heyet-i Temsiliyenin Ankara'ya gelmesini ",
+            "C": "Mondros Anlaşması sonrası işgalleri",
+            "D": "Kongrelerin toplanmasını",
+            "E": "Düzenli ordunun kurulmasının sebeplerini"
+        },
+        {
+            "numarasi": "16",
+            "soru": " 1919 yılında Türkiye’ye gelen ve Sivas’ta Mustafa Kemal Paşa ile görüşme yapan General Harbord, aşağıdaki konulardan hangisinde araştırma yapmak üzere gönderilmiştir? ",
+            "A": "Boğazlar sorunu ",
+            "B": "Yunan işgali",
+            "C": "Manda konusu",
+            "D": "Kapitülasyonlar",
+            "E": "Musul petrolleri "
+        },
+        {
+            "numarasi": "17",
+            "aciklama":"İstiklal Mahkemelerinin amacı, millî birliğin, huzurun ve güvenliğin tesisini sağlamaktı. Üyeleri Meclis tarafından, milletvekilleri arasından seçilen mahkemelere olağanüstü yetkiler tanınmıştı. Kararları temyiz edilemeyen bu mahkemeler, Millî Mücadele’nin başarıya ulaşmasında ve inkılapların uygulanmasında etkili olmuşlardır",
+            "soru": "Bu bilgiyle İstiklal Mahkemeleri ile ilgili olarak aşağıdakilerden hangisine ulaşılamaz? ",
+            "A": "TBMM’nin yargı gücünü kullanmasını sağlamışlardır",
+            "B": "TBMM’ye karşı çıkan isyanların bastırılmasında etkili olmuşlardır. ",
+            "C": "Faaliyetleri Millî Mücadele Dönemi'yle sınırlı kalmıştır.",
+            "D": "Gerektiği hâllerde kurularak yargılama yapmışlardır",
+            "E": "Kararları kesin olup, derhâl uygulanmıştır"
+        },
+       
+        {
+            "numarasi": "18",
+            "soru": "Millî Mücadele Dönemi’nde gerçekleşen ve Mustafa Kemal Paşa’nın daha sonra “Rum Sındığı” olarak da adlandırdığı savaş, aşağıdakilerden hangisidir? ",
+            "A": "Birinci İnönü Muharebesi",
+            "B": "İkinci İnönü Muharebesi ",
+            "C": "Kütahya-Eskişehir Muharebesi",
+            "D": "Sakarya Meydan Muharebesi",
+            "E": "Başkomutan Meydan Muharebesi"
+        },
+        {
+            "numarasi": "19",
+            "soru": "Lozan Konferansı sırasında ve görüşmelere ara verildiği dönemde, TBMM’de muhalefeti oluşturan ikinci grubun yoğun eleştirileri, aşağıdakilerden hangisinin gerçekleşmesinde etkili olmuştur? ",
+            "A": "Takrir-i Sükûn Kanunu’nun çıkarılması",
+            "B": "Milletvekili seçimleri için karar alınması",
+            "C": "Başkomutanlık yetkisinin uzatılması",
+            "D": "Felah-ı Vatan Grubu’nun kurulması",
+            "E": "Hıyanet-i Vataniye Kanunu’nun yürürlüğe girmesi"
+        },
+        {
+            "numarasi": "20",
+            "soru": "Aşağıdakilerden hangisi saltanat ve hilafetin kaldırılmasının ortak nedenlerinden biridir? ",
+            "A": "Rejimin cumhuriyet olmasını sağlamak",
+            "B": "TBMM’yi egemenliği kullanan tek güç hâline getirmek",
+            "C": "Dış müdahalelerin önüne geçmek",
+            "D": "Meclisteki muhalif ikinci grubun gücünü kırmak",
+            "E": "Lozan Konferansı’ndaki temsil kargaşasını önlemek"
+        },
+        {
+            "numarasi": "21",
+            "soru": "Aşağıdaki kurumlardan hangisi, Atatürk Dönemi’nde açılmıştır? ",
+            "A": "Darülfünun",
+            "B": "Mülkiye Mektebi",
+            "C": "Türk Ocakları",
+            "D": "Ankara Hukuk Mektebi",
+            "E": "Sanayi-i Nefise Mektebi"
+        },
+        {
+            "numarasi": "22",
+            "soru": "19 Nisan 1926 tarihli Kabotaj Kanunu'yla aşağıdakilerden hangisi düzenlenmiştir? ",
+            "A": "Âşar vergisi ",
+            "B": "Toprak reformu",
+            "C": "Millî bankacılık",
+            "D": "Deniz ticareti",
+            "E": "Planlı sanayi"
+        },
+        {
+            "numarasi": "23",
+            "soru": "1929 Dünya Ekonomik Krizi’nin etkisiyle ortaya çıkan otarşi (kendine yetme) eğiliminin Türkiye’de yansıması olarak geliştirilen Atatürk ilkesi, aşağıdakilerden hangisidir? ",
+            "A": "Devletçilik",
+            "B": "Laiklik",
+            "C": "Cumhuriyetçilik",
+            "D": "Milliyetçilik",
+            "E": "Halkçılık"
+        },
+        {
+            "numarasi": "24",
+            "soru": "Atatürk Dönemi’nde en uzun süre Dışişleri Bakanlığı görevinde bulunan ve Hatay sorununun çözümünde önemli katkı sağlayan devlet adamı aşağıdakilerden hangisidir? ",
+            "A": "Tevfik Rüştü Aras",
+            "B": "Yusuf Kemal Tengirşenk",
+            "C": "Şükrü Kaya",
+            "D": "Mahmut Esat Bozkurt",
+            "E": "Ali Fethi Okyar"
+        },
+        {
+            "numarasi": "25",
+            "aciklama":"Yusuf, bir sahafta eski gazetelerin yer aldığı bölüme gitmiş ve eline aldığı bir gazetenin ilk sayfasında Bulgaristan’da toplanmış olan Alman kuvvetlerinin Yunanistan’a girerek işgale başladığı haberini okumuştur. ",
+            "soru": "Gazetenin bu nüshasında yer alan haberin aşağıdaki savaşların hangisine ait olduğu söylenebilir? ",
+            "A": "Birinci Balkan Savaşı",
+            "B": "İkinci Balkan Savaşı",
+            "C": "Trablusgarp Savaşı",
+            "D": "Birinci Dünya Savaşı",
+            "E": "İkinci Dünya Savaşı"
+        },
+        {
+            "numarasi": "26",
+            "soru": "Aşağıdakilerden hangisi, 27 Mayıs 1960 Askerî Darbesi sonrasında kurulan, Genel Başkanlığını Ragıp Gümüşpala'nın üstlendiği ve Demokrat Partinin devamı niteliğinde olan siyasi partidir? ",
+            "A": "Adalet Partisi ",
+            "B": "Hürriyet Partisi",
+            "C": "Millet Partisi",
+            "D": "Millî Kalkınma Partisi",
+            "E": "Ahali Cumhuriyet Partisi "
+        },
+        {
+            "numarasi": "27",
+            "ustara":"Bu politikanın;",
+            "I":" Rusya’nın bölgedeki etkinliğini azaltmak",
+            "II":"Türkiye’nin önemini artırmak",
+            "III":"Bağımsız Devletler Topluluğunu güçlendirmek",
+            "ustsoru":"SSCB’nin yıkılmasından sonra Azerbaycan, Gürcistan ve Türkiye üzerinden bir enerji koridoru oluşturulmuştur. ",
+            "soru": "amaçlarından hangilerini taşıdığı söylenebilir? ",
+            "A": "Yalnız I",
+            "B": "I ve II",
+            "C": "I ve III",
+            "D": "II ve III",
+            "E": "I , II ve III"
+        }
+       
+    ]
+}

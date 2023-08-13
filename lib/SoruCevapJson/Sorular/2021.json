@@ -1,0 +1,269 @@
+{
+    "sorular": [
+        {
+            "numarasi": "1",
+            "ustsoru":"Türk tarihinde önemli bir yere sahip olan Orhun Kitabeleri;",
+            "I":" Kül Tigin",
+            "II":"Bilge Kağan,",
+            "III":"Yuluğ Tigin",
+            "soru": "adlı devlet adamlarından hangileri adına dikilmiştir?",
+            "A": "Yalnız I",
+            "B": "Yalnız III",
+            "C": "I ve II",
+            "D": "II ve III",
+            "E": "I, II ve III"
+        },
+        {
+            "numarasi": "2",
+            "soru": "Karahanlılar Dönemi’nde kaleme alınmış olup, dört karakter üzerinden adalet, iktidar, akıl ve akıbet olmak üzere başlıca dört insani yetenek ile devlet yönetimine ilişkin ilkelerin anlatıldığı eser aşağıdakilerden hangisidir?",
+            "A": "Kutadgu Bilig",
+            "B": "Atabetü’l-Hakayık",
+            "C": "Divanü Lügati’t-Türk",
+            "D": "Divan-ı Hikmet",
+            "E": "Muhakemetü’l-Lügateyn"
+        },
+        {
+            "numarasi": "3",
+            "aciklama":"Türkiye Selçukluları; XIII. yüzyılın başlarında Antalya, Sinop, Alanya ve Suğdak’ı hâkimiyeti altına almıştır. Ayrıca bu dönemde ele geçirilen liman kentlerine ulaşan yollarda kervansaraylar inşa etmiştir",
+            "soru": "Bu politikayla Türkiye Selçukluları’nın aşağıdakilerden hangisini amaçladığı söylenemez?",
+            "A": "Doğu Akdeniz’de siyasi ve ekonomik üstünlük sağlamak ",
+            "B": "Yabancıların Akdeniz ve Karadeniz’deki ticari faaliyetlerine son vermek",
+            "C": "Zengin liman kentlerinin gelirinden yararlanmak",
+            "D": "Anadolu ticaretine ve ticari yollarına hâkim olmak",
+            "E": "Liman kentlerini ele geçirerek Bizans ekonomisini zayıflatmak"
+        },
+        {
+            "numarasi": "4",
+            "soru": "Osmanlı timar sisteminde dirliklerle ilgili olan “kılıç” tabiri aşağıdakilerin hangisinde doğru olarak açıklanmıştır?",
+            "A": "Beylerbeylerinin tasarruf ettikleri miri gelirler",
+            "B": "Timar sahiplerinin yetiştirdikleri askerler",
+            "C": "Sipahiye başlangıçta tahsis edilen dirlik",
+            "D": "Yararlılık gösteren sipahiye sağlanan gelir artışı",
+            "E": "Hanedan üyelerine tahsis edilen dirlikler"
+        },
+        {
+            "numarasi": "5",
+            "soru": "Osmanlı Devleti tarafından gönderilen elçilerin; görevlendirildikleri bölgenin siyasi, askerî, ekonomik ve kültürel yapısına dair gözlemlerini aktardıkları raporların genel adı aşağıdakilerden hangisidir?",
+            "A": "Sefaretname",
+            "B": "Seyahatname",
+            "C": "Siyasetname",
+            "D": "Surname",
+            "E": "Ahidname"
+        },
+        {
+            "numarasi": "6",
+            "soru": "Aşağıdakilerden hangisi II. Mehmet’in bilim ve eğitim alanındaki uygulamalarından biri değildir?",
+            "A": "Müslüman ve Hristiyan bilginleri sarayında toplaması",
+            "B": "Felsefe ve din konularında serbest tartışma ortamı oluşturması",
+            "C": "Doğu ve Batı dillerinde yazılmış kitapları tercüme ettirmesi ",
+            "D": "Sahn-ı Seman Medresesinde pozitif bilimlere de yer verdirmesi",
+            "E": "Avrupa tarzında ilk eğitim kurumlarını oluşturması"
+        },
+        {
+            "numarasi": "7",
+            "soru": "Osmanlı Devleti’nin Klasik Dönemi’nde vergilendirilebilir nüfus ve gelir kaynaklarını tespit edebilmek amacıyla gerçekleştirilen sayım işlemine verilen ad aşağıdakilerden hangisidir? ",
+            "A": "Esham",
+            "B": "Malikâne",
+            "C": "Tahrir",
+            "D": "Mukataa",
+            "E": "İltizam"
+        },
+        {
+            "numarasi": "8",
+            "I":"Memlük Devleti yıkılarak Suriye, Filistin, Lübnan, Mısır ve Hicaz bölgeleri Osmanlı topraklarına katıldı.",
+            "II":"Doğu Akdeniz’den geçen Baharat Yolu'nun denetimi Osmanlı Devleti’ne geçti.",
+            "III":"Doğu Anadolu'daki Safevi etkisi kırıldı.",
+            "soru": "Bu gelişmeler aşağıdaki padişahların hangisi döneminde gerçekleşmiştir?",
+            "A": "Fatih Sultan Mehmet ",
+            "B": "Yavuz Sultan Selim",
+            "C": "Kanuni Sultan Süleyman",
+            "D": "II. Bayezid ",
+            "E": "II. Selim"
+        },
+        {
+            "numarasi": "9",
+            "aciklama":"Kanuni Sultan Süleyman, Bender Kalesi’ndeki 1538 tarihli yazıta, 'Ben Tanrı’nın kulu, bu dünyanın sultanıyım. Tanrı’nın inayetiyle ümmet-i Muhammed’in başındayım. Adına Mekke ve Medine’de hutbe okunan Süleyman’ım ben. Ben Bağdat’ta şah, Bizans diyarında kayzer, Mısır’da sultanım. Donanmalarını Akdeniz, Mağrip ve Hind’e yollayan sultanım. Macar taht ve tacını alan ve onları bir kuluna bağışlayan sultan benim.' ifadelerini yazdırmıştır.",
+            "soru": "Kanuni Sultan Süleyman’ın bu ifadesinden aşağıdakilerin hangisi çıkarılamaz?",
+            "A": "Deniz hâkimiyetine önem verdiği",
+            "B": "Bir dünya devleti yönettiği ",
+            "C": "Hristiyan dünyasını hâkimiyeti altına aldığı",
+            "D": "İslam dünyasında önder olduğu",
+            "E": "Devletin sınırlarını genişlettiği"
+        },
+        {
+            "numarasi": "10",
+            "soru": "Aşağıdakilerden hangisi Osmanlı Devleti’nde yenileşme döneminde Batı etkisi altında düzenlenen askerî kurumlardan biri değildir?",
+            "A": "Hendesehane",
+            "B": "Topçu Ocağı",
+            "C": "Mühendishane-i Berri-i Hümayun",
+            "D": "Eşkinci Ocağı",
+            "E": "Sekban-ı Cedid Ocağı"
+        },
+        {
+            "numarasi": "11",
+            "ustsoru":"Lale Devri’nde yapılan yeniliklerden bazıları şunlardır:",
+            "I":"İlk Türk matbaası açılmıştır.",
+            "II":"Yeni okul ve kütüphaneler kurulmuştur",
+            "III":"Tercüme ve bilim heyetleri oluşturulmuştur",
+            "IV":"İlk kez çiçek aşısı uygulanmıştır. ",
+            "soru": "Buna göre Lale Devri ile ilgili aşağıdakilerin hangisine ulaşılamaz? ",
+            "A": "Kültür hayatının canlandığına",
+            "B": "Batı etkisinin arttığına",
+            "C": "Koruyucu sağlık hizmetlerinin başladığına",
+            "D": "Ahalinin yönetime katıldığına",
+            "E": "Eğitime önem verildiğine"
+        },
+        {
+            "numarasi": "12",
+            "soru": "Âyanlar ve eyalet valilerinin padişaha bağlılıklarını bildirdiği, Padişahın da eyaletlere adil ve eşit vergiler salmayı taahhüt ettiği belge aşağıdakilerden hangisidir?",
+            "A": "Tanzimat Fermanı",
+            "B": "Arazi Kanunnamesi",
+            "C": "Vilayet Nizamnames",
+            "D": "Sened-i İttifak",
+            "E": "Mecelle"
+        },
+        {
+            "numarasi": "13",
+            "soru": "Birinci Balkan Savaşı sırasında Enver Paşa önderliğindeki bazı İttihatçıların, hükûmet binasını basarak Sadrazam Kamil Paşa’yı zorla istifa ettirdiği olay aşağıdakilerden hangisidir? ",
+            "A": "Çırağan Vakası",
+            "B": "31 Mart Olayı",
+            "C": "Babıali Baskını ",
+            "D": "Kuleli Vakası ",
+            "E": "Vaka-i Hayriye"
+        },
+        {
+            "numarasi": "14",
+            "soru": "Mustafa Kemal Paşa’nın Erzurum Kongresi öncesinde verdiği kararla “Sineyimillete Dönüş” olarak nitelediği durum aşağıdakilerden hangisidir? ",
+            "A": "Resmî görevinden ve askerlikten istifa etmesi",
+            "B": "Büyük Millet Meclisi Başkanlığına getirilmesi",
+            "C": "Tekâlif-i Millîye Emirleri’ni yayımlaması",
+            "D": "Başkumandanlık görevini üstlenmesi",
+            "E": "Bandırma Vapuru ile Samsun’a ayak basması"
+        },
+        {
+            "numarasi": "15",
+            "soru": "Aşağıdakilerden hangisi Kurtuluş Savaşı yıllarında kurulan İstiklal Mahkemelerinin yargılama alanı dışındadır? ",
+            "A": "Düşman ordusundan alınan esirler",
+            "B": "İç ayaklanmalara katılanlar",
+            "C": "Casusluk yapanlar",
+            "D": "TBMM’nin otoritesine karşı çıkanlar",
+            "E": "Asker kaçakları "
+        },
+        {
+            "numarasi": "16",
+            "soru": "Aşağıdakilerden hangisi, Millî Mücadele yıllarında işgallere karşı örgütlenmede etkili olan yerel halk kahramanlarından biri değildir?",
+            "A": "Demirci Mehmet Efe",
+            "B": "Anzavur Ahmet",
+            "C": "İpsiz Recep",
+            "D": "Yörük Ali Efe",
+            "E": "Şahin Bey"
+        },
+        {
+            "numarasi": "1",
+            "aciklama":"Erzurum ve Sivas kongrelerinde “Kuvayımilliye’yi amil ve millî iradeyi hâkim kılmak esastır.” şeklinde karar alınmıştır",
+            "soru": "Aşağıdakilerden hangisi bu kararın bir sonucu değildir?",
+            "A": "Birinci TBMM’nin toplanması",
+            "B": "1921 Teşkilat-ı Esasiye Kanunu’nun kabul edilmesi",
+            "C": "Halkçılık Beyannamesi’nin yayımlanması",
+            "D": "Saltanatın kaldırılması",
+            "E": "Heyet-i Nasihaların oluşturulması"
+        },
+        {
+            "numarasi": "18",
+            "aciklama":"Yunan ordusunun Sakarya’ya kadar ilerlemesiyle paniğe kapılan İstanbul Hükûmeti’nin Donanma Bakanı Salih Paşa, aracılar vasıtasıyla Mustafa Kemal Paşa’ya İngiltere ile bir anlaşmaya varılmasını önererek İngiltere’ye karşı belirsiz bir süre direnmenin tehlikeli olacağı ve bir felakete yol açacağı uyarısında bulunmuştur. Sakarya Zaferi’nden sonra Mustafa Kemal Paşa, Salih Paşa’nın çevrede dolaşan söylentilerden etkilenerek olayları doğru değerlendiremeyecek bir duruma geldiğini öne sürmüştür. Emperyalist bir politika takip eden İngiltere’nin Türkiye ile kolay anlaşmayacağını belirtmiştir.",
+            "soru": "Buna göre aşağıdakilerden hangisi söylenemez?",
+            "A": "İngiliz Hükûmeti’nin, İstanbul ve Anadolu’daki gelişmeleri izlediği",
+            "B": "İstanbul’daki bazı yöneticilerin teslimiyetçi ve uzlaşmacı siyaseti benimsediği",
+            "C": "TBMM Hükûmeti ile İstanbul Hükûmeti arasında iletişimin bulunduğu",
+            "D": "Sakarya Savaşı’nın Anadolu hareketi için önemli olduğu ",
+            "E": "İstanbul Hükûmeti’nin Yunanlıları durdurma konusunda Ankara’ya güvendiği"
+        },
+        {
+            "numarasi": "19",
+            "soru": "Aşağıdakilerden hangisi 20 Kasım 1922’de toplanan Lozan Konferansı’nın 4 Şubat 1923’te kesintiye uğramasına yol açan konulardan biri değildir?",
+            "A": "Irak sınırı",
+            "B": "Tamirat bedeli",
+            "C": "Kapitülasyonlar",
+            "D": "Mübadele",
+            "E": "Boğazlar"
+        },
+        {
+            "numarasi": "20",
+            "soru": "Yakın Dönem Türkiye tarihiyle ilgili aşağıdaki gelişmelerin hangisinde neden-sonuç ilişkisi kurulamaz?",
+            "A": "İstanbul Hükûmetinin Lozan Konferansı’na davet edilmesi - Saltanatın kaldırılması",
+            "B": "Şeyh Sait Ayaklanması - Takrir-i Sükûn Kanunu’nun kabul edilmes",
+            "C": "İstanbul’un resmen işgali - Büyük Millet Meclisinin açılması",
+            "D": "Mustafa Kemal’e suikast girişimi - Serbest Cumhuriyet Fırkasının kapanması",
+            "E": "Halifeliğin kaldırılması - Osmanlı hanedanı üyelerinin ülke dışına çıkarılması"
+        },
+        {
+            "numarasi": "21",
+            "soru": "Aşağıdakilerden hangisi Cumhuriyet Dönemi’nde hukuk alanında yapılan yeniliklerden biri değildir?",
+            "A": "Ülkede tek hukuk sistemine geçilmesi",
+            "B": "Batıdan laik ve çağdaş kanunların alınması",
+            "C": "Şer'iye ve Evkaf Vekâletinin kaldırılması",
+            "D": "Ankara Hukuk Mektebinin açılması",
+            "E": "Aile Hukuku Kararnamesi’nin çıkarılması"
+        },
+        {
+            "numarasi": "22",
+            "soru": "Aşağıdakilerden hangisi milliyetçilik ilkesiyle doğrudan ilişkilidir?",
+            "A": "Efendi, Bey, Paşa Gibi Lakap ve Unvanların Kaldırılmasına Dair Kanun'un çıkarılması",
+            "B": "Bazı Kisvelerin Giyilmeyeceğine Dair Kanun'un kabulü",
+            "C": "Birinci Beş Yıllık Sanayi Planı'nın uygulanması",
+            "D": "Şer'iye ve Evkaf Vekâletinin kaldırılması",
+            "E": "Türk Parasını Koruma Kanunu'nun yayımlanması"
+        },
+        {
+            "numarasi": "23",
+            "aciklama":"Elif, Atatürk Dönemi’nde madencilik ve enerji işlerini yönetmek amacıyla kurulmuş olan kuruluşlar üzerine bir ödev hazırlamaktadır.",
+            "soru": "Aşağıdakilerden hangisi Elif’in hazırlayacağı ödevde yer almalıdır?",
+            "A": "Sümerbank",
+            "B": "İş Bankası",
+            "C": "Etibank",
+            "D": "Ziraat Bankası",
+            "E": "Denizbank"
+        },
+        {
+            "numarasi": "24",
+            "I":" Balkanlarda kalıcı barışı sağlamak",
+            "II":"Yunan-Bulgar anlaşmazlığından yararlanmak,",
+            "III":"Bulgaristan’ın İtalya ile yakınlaşmasını önlemek",
+            "ustsoru":"1934’te kurulan Balkan Antantı’na Türkiye’nin tüm girişimlerine rağmen Bulgaristan katılmamıştır. Türkiye’nin, Balkan Antantı’na Bulgaristan’ın da katılmasını istemesinde;",
+            "soru": "amaçlarından hangileri etkili olmuştur?",
+            "A": "Yalnız I",
+            "B": "Yalnız III",
+            "C": "I ve II",
+            "D": "I ve III",
+            "E": "II ve III"
+        },
+        {
+            "numarasi": "25",
+            "soru": "Aşağıdakilerden hangisi, Birinci Dünya Savaşı ve İkinci Dünya Savaşı’nın ortak noktalarından biri değildir?",
+            "A": "Almanya, her iki savaştan da yenik çıkmıştır.",
+            "B": "Her iki savaş sonrasında uluslararası örgütler kurulmuştur.",
+            "C": "Fransa ve İngiltere, her iki savaşta müttefik olmuşlardır",
+            "D": "ABD, her iki savaşa da sonradan katılmıştır",
+            "E": "Japonya, her iki savaşta da galip tarafta yer almıştır"
+        },
+        {
+            "numarasi": "26",
+            "aciklama":"Aysun, İkinci Dünya Savaşı yıllarında Türkiye’deki politik gelişmelerle ilgili bir ödev hazırlamaktadır",
+            "soru": "Aşağıdakilerden hangisi Aysun’un yararlanabileceği eserler arasındadır?",
+            "A": "Türkiye’de Millî Şef Dönemi",
+            "B": "Üçüncü Meşrutiyet",
+            "C": "Tek Adam",
+            "D": "İnkılap ve Kadro",
+            "E": "Türkiye’de Kongre İktidarları"
+        },
+        {
+            "numarasi": "27",
+            "soru": "1950’lerde başlayan Kıbrıs Sorunu’nu tırmandıran ve Kıbrıs’ın Yunanistan’a katılmasını hedefleyen Enosis düşüncesini hayata geçirmek için Kıbrıs’ta terör faaliyetlerinde bulunan örgüt aşağıdakilerden hangisidir? ",
+            "A": "EOKA",
+            "B": "Mavri Mira",
+            "C": "Pontus",
+            "D": "Etnik-i Eterya",
+            "E": "ASALA"
+        }
+    ]
+}

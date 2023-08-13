@@ -1,0 +1,269 @@
+{
+    "sorular": [
+        {
+            "numarasi": "1",
+            "soru": "Birinci Göktürk Devleti’ne en parlak dönemini yaşatan, Avarların Orta Asya’daki siyasi varlığını sonlandıran ve ülke sınırlarının batıda Hazar Denizi’ne kadar genişlemesini sağlayan hükümdar, aşağıdakilerden hangisidir?",
+            "A": "Mukan Kağan",
+            "B": "Bögü Kağan",
+            "C": "Tapo Kağan",
+            "D": "Bilge Kağan",
+            "E": "İlteriş Kağan"
+       },
+       {
+        "numarasi": "2",
+        "soru": "İslam dünyasındaki fütüvvet anlayışı, Anadolu Selçuklu Devleti’nde ve Osmanlı Devleti’nin kuruluş yıllarında, aşağıdakilerden hangisinin ahlak ve davranış kurallarının şekillenmesinde önemli rol oynamıştır?",
+        "A": "Ahîlik Teşkilatı",
+        "B": "Timar Sistemi",
+        "C": "İltizam Sistemi",
+        "D": "Devşirme Usulü",
+        "E": "Enderun Mektebi"
+   },
+   {
+    "numarasi": "3",
+    "soru": "Anadolu’daki Türk beylikleri ve kuruldukları yerler arasında yapılan aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "A": "Candaroğulları - Kastamonu yöresi",
+    "B": "Germiyanoğulları - Kütahya yöresi",
+    "C": "Saruhanoğulları - Manisa yöresi",
+    "D": "Menteşeoğulları - Muğla yöresi",
+    "E": "Taceddinoğulları - Balıkesir yöresi"
+},
+{
+    "numarasi": "4",
+    "soru": "Fatih Sultan Mehmet’in, Ortodoks Kilisesine yönelik izlediği hoşgörü politikasıyla aşağıdakilerden hangisini amaçladığı söylenebilir?",
+    "A": "Müslüman olmayan uyrukların güvenini sağlamayı",
+    "B": "Rusya’nın açık denizlere inme çalışmasını engellemeyi",
+    "C": "Askerî gücünü artırmayı",
+    "D": "Latin dünyası ile iyi ilişkiler kurmayı",
+    "E": "Hristiyanlar arasındaki mezhep mücadelesini sonlandırmayı"
+},
+{
+    "numarasi": "5",
+    "soru": "Osmanlı Devleti’nde aşağıdaki görevlilerden hangisi kalemiye sınıfına dâhil değildir?",
+    "A": "Nişancı",
+    "B": "Defterdar",
+    "C": "Müderris",
+    "D": "Reisülküttap",
+    "E": "Defter Emini"
+},
+{
+    "numarasi": "6",
+    "soru": "XVII. yüzyılda Keşf-üz-Zünûn adlı bibliyografik eserinde binlerce kitabı yazarlarıyla tanıtan ve Cihannüma adlı eseriyle de çeşitli ülkeler hakkında bilgi veren bilim adamı, aşağıdakilerden hangisidir?",
+    "A": "Hezarfen Ahmet Çeleb",
+    "B": "Lagari Hasan Çelebi",
+    "C": "Evliya Çelebi",
+    "D": "Kâtip Çelebi",
+    "E": "Ahi Ahmet Çelebi"
+},
+{
+    "numarasi": "7",
+    "soru": "Hotin Seferi sırasında edindiği olumsuz izlenimler üzerine, Osmanlı merkez ordusunda ıslahat yapmayı düşünen padişah aşağıdakilerden hangisidir?",
+    "A": "II. Osman",
+    "B": "IV. Murat",
+    "C": "IV. Mehmet",
+    "D": "III. Selim",
+    "E": "II. Mahmut"
+},
+{
+    "numarasi": "8",
+    "soru": "Osmanlı Devleti’nin kuruluş döneminde medreselerde, isimlerinin yanında “Arabî, Acemî, Tusî, Semerkandî” gibi sıfatlarla anılan âlimlerin görev yapmış olmasından hareketle aşağıdakilerden hangisine ulaşılabilir?",
+    "A": "Osmanlı bilim ve eğitiminin gelişimine diğer İslam ülkelerinden bilginlerin de katkı sağladığına",
+    "B": "Osmanlı medreselerinde sınıfsal farklılıkların bulunduğuna",
+    "C": "Osmanlı medreselerinin eğitim programlarının İranlı müderrisler tarafından belirlendiğine",
+    "D": "Türk-İslam sentezinin Osmanlı medreselerinde başladığına",
+    "E": "Medreselerde eğitim dili olarak Arapçanın kabul edildiğine"
+},
+{
+    "numarasi": "9",
+    "I":"Osmanlı donanması dünyanın üçüncü büyük filosu hâline getirilmiştir.",
+    "II":"Beylerbeyi ve Çırağan sarayları yapılmıştır.",
+    "III":"Bosna, Hersek, Bulgaristan ve Sırbistan-Karadağ’da isyanlar çıkmıştır",
+    "soru": "XIX. yüzyılda görülen bu gelişmeler aşağıdaki Osmanlı padişahlarından hangisinin dönemine aittir?",
+    "A": "II. Abdülhamit",
+    "B": "Abdülaziz",
+    "C": "Abdülmecit",
+    "D": "II. Mahmut",
+    "E": "III. Mustafa"
+},
+{
+    "numarasi": "10",
+    "aciklama": "Kanunuesasi’nin 8. maddesi: “Osmanlı Devleti uyruğu olan bireylerin tümüne hangi din ve mezhepten olursa olsun ayrım gözetilmeksizin Osmanlı denir.” biçimindedir.",
+    "soru": "Bu tanımla, aşağıdakilerden hangisinin amaçlandığı savunulamaz?",
+    "A": "Padişahın mutlak yetkisinin kısıtlanmasının",
+    "B": "Müslüman olmayanların ayrılıkçı hareketlerinin önlenmesinin",
+    "C": "Toplumun Osmanlı adı altında bütünleştirilmesinin",
+    "D": "Din ve mezhep ayrımcılığının ortadan kaldırılmasının",
+    "E": "Osmanlı vatandaşlığı statüsünün oluşturulmasının"
+},
+{
+    "numarasi": "11",
+    "ustsoru":"Osmanlı Devleti’nde Encümen-i Dâniş’in kurulmasında;",
+    "I":"eğitim ve öğretimin geliştirilmesi,",
+    "II":"Osmanlı diplomasisinin örgütlenmesi,",
+    "III":"Bilim politikasının belirlenmesi",
+    "soru": "amaçlarından hangileri etkili olmuştur? ",
+    "A": "Yalnız II",
+    "B": "Yalnız III",
+    "C": "I ve II",
+    "D": "I ve III",
+    "E": "II ve III"
+},
+{
+    "numarasi": "12",
+    "aciklama": "İngiltere, Rusya’nın Akdeniz’e inmesine engel olmak amacıyla zaman zaman Osmanlı Devleti’ni koruyucu politikalar izlemiştir. Aynı zamanda bunu bazı Osmanlı topraklarına yerleşmek için de fırsat olarak görmüştür",
+    "soru": "Buna göre, aşağıdakilerden hangisi İngiltere’nin bu tür bir politikayla yerleştiği Osmanlı topraklarından biri olarak gösterilebilir?",
+    "A": "Kıbrıs",
+    "B": "Rodos",
+    "C": "Girit",
+    "D": "On İki Ada",
+    "E": "Kırım"
+},
+{
+    "numarasi": "13",
+    "aciklama": "Mondros Ateşkes Anlaşması sonrasında, 13 Kasım 1918’de İstanbul’a dönen Mustafa Kemal, 18 Kasım 1918’de Vakit gazetesinde yayımlanan demecinde, “Herhâlde ulusun ve memleketimizin pek çok muhtaç olduğu barışı sağlayacak hükûmetin bugünkü Mebuslar Meclisine dayanması bir zorunluluktur.” demiştir.",
+    "soru": "Mustafa Kemal bu sözlerle, aşağıdakilerden hangisinin gerekliliğini vurgulamıştır?",
+    "A": "Hükûmetin meclisle uyumlu olmasının",
+    "B": "Çok partili siyasal hayata geçilmesinin",
+    "C": "Her koşulda barışın imzalanmasının",
+    "D": "Yeni bir meclisin toplanmasının",
+    "E": "Padişahın meclis kararlarına uymasının"
+},
+{
+    "numarasi": "14",
+    "aciklama": "Mondros Ateşkes Anlaşması sonrasında başlayan işgaller karşısında halkın örgütlenerek kurduğu Kuvayımillîye birliklerinin liderleri arasında eski askerler, tanınmış efeler ya da eşraftan kişiler de bulunmaktaydı",
+    "soru": "Buna göre, aşağıdakilerden hangisinin Kuvayımillîye birliklerine liderlik ettiği söylenemez?",
+    "A": "İpsiz Recep",
+    "B": "Çerkez Ethem",
+    "C": "Yörük Ali Efe",
+    "D": "Nene Hatun",
+    "E": "Şahin Bey"
+},
+{
+    "numarasi": "15",
+    "ustsoru":"Amasya Genelgesi’nin;",
+    "I":"Vatanın bütünlüğü, milletin bağımsızlığı tehlikededir.",
+    "II":" İstanbul Hükûmeti üzerine aldığı sorumluluğu yerine getirememektedir.",
+    "III":"Milletin bağımsızlığını yine milletin azim ve kararı kurtaracaktır.",
+    "IV":"Her türlü denetimden uzak millî bir kurul oluşturulmalıdır.",
+    "soru": "hükümlerinden hangileri, Millî Mücadele’nin yöntemini ortaya koymaktadır?",
+    "A": "I ve II",
+    "B": "I ve III",
+    "C": "II ve III",
+    "D": "II ve IV",
+    "E": "III ve IV"
+},
+{
+    "numarasi": "16",
+    "soru": "Osmanlı Mebusan Meclisi tarafından kabul edilen Misakımillî’de, halkoyuna başvurulması uygun görülen yerler arasında aşağıdakilerden hangisi yer almaz?",
+    "A": "Trabzon",
+    "B": "Kars",
+    "C": "Ardahan",
+    "D": "Batum",
+    "E": "Batı Trakya"
+},
+{
+    "numarasi": "17",
+    "aciklama": "Kurtuluş Savaşı sadece bir Türk-Yunan Savaşı değil aynı zamanda emperyalist güçlere karşı bir savaştır",
+    "soru": "Aşağıdaki durumlardan hangisinin bu yargıyı destekler nitelikte olduğu söylenemez?",
+    "A": "Kars Antlaşması’yla Doğu sınırlarının belirlenmesi",
+    "B": "Birinci İnönü Savaşı’ndan sonra Anlaşma Devletlerinin Londra Konferansı’nı düzenlemesi",
+    "C": "Mudanya Mütarekesi Görüşmeleri’ne İngiltere, Fransa ve İtalya’nın katılması ",
+    "D": "Sakarya Savaşı’ndan sonra Fransızlarla Ankara Antlaşması’nın imzalanması",
+    "E": "İkinci İnönü Zaferi’nden sonra İtalya’nın Anadolu topraklarından çekilmeye başlaması"
+},
+{
+    "numarasi": "18",
+    "soru": "Aşağıdakilerden hangisi Millî Mücadele’yi destekleyen basın yayın organları arasında yer almaz?",
+    "A": "İleri",
+    "B": "Peyam-ı Sabah",
+    "C": "Tasvir-i Efkâr",
+    "D": "İkdam",
+    "E": "İkdam"
+},
+{
+    "numarasi": "19",
+    "soru": "Ankara’nın başkent olduğu 13 Ekim 1923 tarihinde Ankara’da elçiliği bulunan devlet aşağıdakilerden hangisidir?",
+    "A": "İngiltere",
+    "B": "Afganistan",
+    "C": "İtalya",
+    "D": "Yunanistan",
+    "E": "Fransa"
+},
+{
+    "numarasi": "20",
+    "soru": "Atatürk Dönemi’nde kadınlar, aşağıdaki görev ve mesleklerden hangisinde diğerlerinden daha önce yer almaya başlamıştır?",
+    "A": "Belediye başkanlığı",
+    "B": "Cerrahlık",
+    "C": "Savaş pilotluğu",
+    "D": "Muhtarlık",
+    "E": "Milletvekilliği"
+},
+{
+    "numarasi": "21",
+    "soru":"XX. yüzyılda kurulan, Batı Tiyatrosu anlayışıyla pek çok eser sergileyen ve 1934 yılında adı İstanbul Şehir Tiyatrosu olarak değişen kurum, aşağıdakilerden hangisidir?",
+    "A": "Darülbedayi",
+    "B": "Darüleytam",
+    "C": "Darülmaarif",
+    "D": "Darülmuallimat",
+    "E": "Darülfünunuşahane"
+},
+{
+    "numarasi": "22",
+    "soru": "Batı Cephesi Komutanlığı ve Mudanya Görüşmeleri’ndeki başarısından dolayı, Lozan Konferansı’na gidecek heyete İsmet İnönü’nün başkanlık etmesi için Dışişleri Bakanlığı görevinden istifa eden kişi, aşağıdakilerden hangisidir?",
+    "A": "Mahmut Esat Bozkurt",
+    "B": "Dr. Rıza Nur",
+    "C": "Hasan Saka",
+    "D": "Kâzım Karabekir",
+    "E": "Yusuf Kemal Tengirşenk"
+},
+{
+    "numarasi": "23",
+    "soru": "Devlet yönetiminde millî egemenliği, millî iradeyi ve özgür seçimi esas kabul eden ilke aşağıdakilerden hangisidir? ",
+    "A": "Cumhuriyetçilik",
+    "B": "Milliyetçilik",
+    "C": "Halkçılık",
+    "D": "Devletçilik",
+    "E": "Laiklik"
+},
+{
+    "numarasi": "24",
+    "soru": "19 Mayıs 1924’te İstanbul’da “Haliç Konferansı” adı altında gerçekleşen ve Türkiye’yi Fethi Okyar’ın temsil ettiği görüşmeler aşağıdaki sınırlardan hangisiyle ilgilidir?",
+    "A": "Irak sınırı",
+    "B": "İran sınırı",
+    "C": "Suriye sınırı",
+    "D": "Gürcistan sınırı",
+    "E": "Ermenistan sınır"
+},
+{
+    "numarasi": "25",
+    "I":"ABD ve SSCB arasında bloklaşmaya neden olmuştur",
+    "II":"Avrupa’nın ekonomik açıdan ABD ile rekabet edebilmesini amaçlamıştır",
+    "III":"Türkiye ve Yunanistan’a askerî yardım yapılmasını öngörmüştür.",
+    "soru": "1947 yılında ilan edilen Truman Doktirini hakkında yukarıdakilerden hangileri söylenebilir?",
+    "A": "Yalnız II",
+    "B": "I ve II",
+    "C": "I ve III",
+    "D": "II ve III",
+    "E": "I, II ve III"
+},
+{
+    "numarasi": "26",
+    "soru": "1948’de Cominform’dan çıkarılması üzerine Doğu Bloku ülkeleri arasından resmen ayrılan ve 1961’de Bağlantısızlar Grubu arasında yer alan ülke aşağıdakilerden hangisidir?",
+    "A": "Mısır",
+    "B": "Endonezya",
+    "C": "Yugoslavya",
+    "D": "Hindistan",
+    "E": "Afganistan"
+},
+{
+    "numarasi": "27",
+    "soru": "16 Ağustos 1960’ta bağımsız Kıbrıs Cumhuriyeti ilan edildikten sonra, cumhurbaşkanlığı görevine Rum lider Makarios getirilirken cumhurbaşkanı yardımcılığı görevini üstlenen Türk lider, aşağıdakilerden hangisidir?",
+    "A": "Fazıl Küçük",
+    "B": "Rauf Denktaş",
+    "C": "Mehmet Ali Talat",
+    "D": "Tayfur Sökmen",
+    "E": "Abdurrahman Melek"
+}
+
+
+    ]
+}

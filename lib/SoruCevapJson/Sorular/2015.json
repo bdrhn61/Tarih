@@ -1,0 +1,268 @@
+{
+    "sorular": [
+
+        {
+            "numarasi": "1",
+            "soru": "Türklerin demir madeninin bulunduğu dağı eriterek yaşadıkları yerden çıkışını anlatan destan aşağıdakilerden hangisidir?",
+            "A": "Ergenekon",
+            "B": "Yaradılış",
+            "C": "Bozkır",
+            "D": "Türeyiş",
+            "E": "Alp Er Tunga"
+       },
+       {
+        "numarasi": "2",
+        "soru": "Türk-İslam devletlerinin ilk dönemlerinde başkent olan ve Timur Dönemi’nde “şehirlerin şahı” unvanıyla bilinen stratejik öneme sahip şehir aşağıdakilerden hangisidir?",
+        "A": "İsfahan",
+        "B": "Semerkant",
+        "C": "Taşkent",
+        "D": "Buhara",
+        "E": "Kaşgar"
+   },
+   {
+    "numarasi": "3",
+    "soru": "Kaşgarlı Mahmut’un “Türk’ün kanadıdır.” diye nitelendirdiği savaş aracı aşağıdakilerden hangisidir?",
+    "A": "At",
+    "B": "Ok",
+    "C": "Yay",
+    "D": "Mızrak",
+    "E": "Kalkan"
+},
+{
+    "numarasi": "4",
+    "soru": "Osmanlı Devleti’nde şehzadelerin sancağa çıkmasıyla elde ettikleri kazanımlar ve sorumlu olduğu görevler arasında aşağıdakilerden hangisi bulunmaz?",
+    "A": "Yönetimde ve askerî alanda tecrübe kazanmak",
+    "B": "Kendilerine ayrılan geliri almak",
+    "C": "Sultanın emirlerine göre davranmak",
+    "D": "Sancaklarındaki askerlerle birlikte sefere katılmak",
+    "E": "Bulundukları bölgede adına hutbe okutmak"
+},
+{
+    "numarasi": "5",
+    "aciklama":"Osmanlı Devleti’nde saray, Türk-İslam devletlerinde olduğu gibi hem padişahın özel hayatının geçtiği ev hem de devlet işlerinin yürütüldüğü merkezdi",
+    "soru": "Buna göre aşağıdakilerden hangisinin sarayda yapıldığı söylenemez?",
+    "A": "İç oğlanlarının eğitiminin",
+    "B": "Cülus töreninin",
+    "C": "Yabancı elçilerin kabulünün",
+    "D": "Bayramlaşma törenlerinin",
+    "E": "Timarlı sipahilerin eğitiminin"
+},
+{
+    "numarasi": "6",
+    "aciklama":"Adalet halkın, şikâyetlerini doğrudan doğruya hükümdara sunabilmesini ve onun emriyle haksızlıkların giderilmesini gerektirir",
+    "soru": "Buna göre Osmanlı Klasik Dönemi’nde reayanın şikâyetlerini sunmak için aşağıdakilerden hangisine başvurduğu söylenemez?",
+    "A": "Kadı",
+    "B": "Divanıhümayun",
+    "C": "Âyan Meclisi",
+    "D": "Beylerbeyi",
+    "E": "Sancak beyi"
+},
+{
+    "numarasi": "7",
+    "aciklama":"Osmanlı toplumu, Avrupa’dan farklı olarak aşılmaz duvarlarla birbirinden ayrılmamıştır",
+    "soru": "Bu duruma aşağıdakilerden hangisi örnek olarak gösterilebilir?",
+    "A": "Padişah beratıyla reayadan bir kişinin askerî sınıfa geçebilmesi",
+    "B": "Yönetenler sınıfının seyfiye, ilmiye ve kalemiye olarak gruplara ayrılması",
+    "C": "Müslüman olmayanların özel hukuk alanında kendi kanunlarına tabi olması",
+    "D": "Halktan gelir düzeyine göre vergi alınması",
+    "E": "Beşik ulemalığı sisteminin görülmesi"
+},
+{
+    "numarasi": "8",
+    "aciklama":"Askere setre pantolon giydirip imanına halel getiren, önlerine muallim diye Frenkleri düşüren bir padişaha elbette Allah tevfikini çok görür… Efendi şimdi ne yeniçeri var ne de sipahi! Cümlesi başı şapkalı Frenk oldu!..",
+    "soru": "Osmanlı Devleti’nde görülen ıslahat hareketlerine karşı halk arasında konuşulan bu sözlere bakılarak aşağıdakilerden hangisine ulaşılamaz?",
+    "A": "Islahat faaliyetleri askerî alanla sınırlı kalmıştır.",
+    "B": "Islahat hareketlerinde Avrupalı uzmanlardan yararlanılmıştır",
+    "C": "Geleneksel askerî kıyafetlerin giyimi terk edilmiştir",
+    "D": "Klasik Dönem Osmanlı ordusunun yapısı değişmiştir",
+    "E": "Halk arasında bazı ıslahatçı padişahlara karşı tepkili olanlar vardır."
+},
+{
+    "numarasi": "9",
+    "aciklama":"XVIII. yüzyıldan itibaren Osmanlı mimarisi üzerinde Avrupa etkisi görülmeye başlanmıştır.",
+    "soru": "Aşağıdakilerden hangisi bu etkinin görüldüğü eserlerden biri değildir?",
+    "A": "Sultan Ahmet Camisi",
+    "B": "Beylerbeyi Sarayı",
+    "C": "İshak Paşa Sarayı",
+    "D": "Nuru Osmaniye Camisi",
+    "E": "Laleli Külliyesi"
+},
+{
+    "numarasi": "10",
+    "soru": "Aşağıdaki devletlerden hangisinin hükümdarı, 1815’te toplanan Viyana Kongresi’nde Osmanlı Devleti’ni “hasta adam” olarak nitelemiştir?",
+    "A": "Fransa",
+    "B": "İtalya",
+    "C": "Almanya",
+    "D": "Rusya",
+    "E": "Avusturya-Macaristan"
+},
+{
+    "numarasi": "11",
+    "soru": "XIX. yüzyıl sonlarında gelişen; öncüleri arasında Mehmet Emin Resulzade, Mahmut Celaleddin Paşa ve Gaspıralı İsmail Bey gibi kişilerin gösterildiği; düşüncelerini daha çok dil, kültür ve ekonomi meseleleri üzerinde yoğunlaştıran düşünce akımı aşağıdakilerden hangisidir?",
+    "A": "Batıcılık",
+    "B": "Türkçülük",
+    "C": "İslamcılık",
+    "D": "Ademimerkeziyetçilik",
+    "E": "Sosyalizm"
+},
+{
+    "numarasi": "12",
+    "soru": "Göçler, hastalıklar ve ölümler nedeniyle kimsesiz kalan çocuklar için 1914’te açılan kurum aşağıdakilerden hangisidir? ",
+    "A": "Darüleytam",
+    "B": "Darülelhan",
+    "C": "Darülbedayi",
+    "D": "Darülmuallimat",
+    "E": "Darülaceze"
+},
+{
+    "numarasi": "13",
+    "soru": "Mustafa Kemal’in ilk görev yaptığı, Vatan ve Hürriyet Cemiyeti’ni kurduğu yer aşağıdakilerden hangisidir?",
+    "A": "İstanbul",
+    "B": "Selanik",
+    "C": "Manastır",
+    "D": "Şam",
+    "E": "Trablusgarp"
+},
+{
+    "numarasi": "14",
+    "aciklama":"Atatürk Nutuk’ta, “Bütün memleketi karışıklık ateşleri içerisinde yakmış; hıyanet, cehalet, kin ve taassup dumanları bütün vatan semasını yoğun karanlıklar içinde bırakmıştı.” demiştir.",
+    "soru": "Bu sözle Atatürk, Millî Mücadele’yi etkileyen aşağıdaki gelişmelerden hangisine işaret etmiştir?",
+    "A": "İç isyanlara",
+    "B": "Yerel direniş hareketlerine",
+    "C": "I. İnönü Savaşı’na",
+    "D": "II. İnönü Savaşı’na",
+    "E": "İşgal karşıtı mitinglere"
+},
+{
+    "numarasi": "15",
+    "ustsoru":"Erzurum Kongresi’nde alınan;",
+    "I":"işgallere karşı topyekûn direnileceği,",
+    "II":"manda ve himayenin reddedileceği,",
+    "III":"Müslüman olmayanlara siyasi ve sosyal dengeyi bozacak ayrıcalıkların verilmeyeceği",
+    "soru": "kararlarından hangileri, kongrenin bağımsızlığı ilke edindiğinin kanıtları arasında gösterilebilir?",
+    "A": "Yalnız I",
+    "B": "Yalnız II",
+    "C": "Yalnız III",
+    "D": "I ve II",
+    "E": "I,II ve III"
+},
+{
+    "numarasi": "16",
+    "aciklama":"TBMM’nin 13 Ocak 1921’deki birleşiminde Mustafa Kemal, Namık Kemal’in ünlü beytini değiştirerek şöyle der: “Vatanın bağrına düşman dayasın hançerini, Bulunur kurtaracak bahtı kara mâderini” ",
+    "soru": "Mustafa Kemal’in belirtilen bu umutlu tavrı sergilemesine yol açan askerî başarı aşağıdakilerden hangisidir?",
+    "A": "I. İnönü Savaşı",
+    "B": "II. İnönü Savaşı",
+    "C": "Kütahya – Eskişehir Savaşı",
+    "D": "Başkomutan Meydan Savaşı",
+    "E": "Sakarya Meydan Savaşı"
+},
+{
+    "numarasi": "17",
+    "soru": "Millî Mücadele Dönemi’nde Türkiye’nin izlediği siyaset hakkında olumlu yazılar yazan ve Anadolu halkının direnişini destekleyerek “Türk dostu” olarak tanınan Fransız yazar aşağıdakilerden hangisidir?",
+    "A": "Pierre Loti",
+    "B": "Franklin Bouillon",
+    "C": "George Picot",
+    "D": "Raymond Poincare",
+    "E": "Pelle"
+},
+{
+    "numarasi": "18",
+    "soru": "Mustafa Kemal’in 8 Nisan 1923’te açıkladığı “Dokuz Umde (Dokuz İlke)” aşağıdakilerden hangisinin varlığının esasını oluşturmuştur?",
+    "A": "TBMM’nin",
+    "B": "Halk Fırkasının",
+    "C": "Teşkilat-ı Esasiye Kanunu’nun",
+    "D": "İsmet Paşa Hükûmetinin",
+    "E": "Lozan Konferansı’nın"
+},
+{
+    "numarasi": "19",
+    "I":" 1921 Anayasası’nı yapması",
+    "II":"Osmanlı saltanatını yıkması",
+    "III":"Mustafa Kemal’e “Gazi” unvanını vermesi",
+    "soru": "Yukarıdakilerden hangileri, I. TBMM’nin kuruculuk ve inkılapçılık niteliklerine örnek olarak gösterilebilir?",
+    "A": "Yalnız I",
+    "B": "Yalnız II",
+    "C": "Yalnız III",
+    "D": "I ve II",
+    "E": "I ve III"
+},
+{
+    "numarasi": "20",
+    "soru": "Afet İnan tarafından derlenen ve Atatürk’ün de devlet ve toplum hayatını ilgilendiren konularda yazıları bulunan eser aşağıdakilerden hangisidir?",
+    "A": "Medeni Bilgiler",
+    "B": "Nutuk",
+    "C": "Cumali Ordugâhı ",
+    "D": "Zabit ve Kumandan ile Hasbihal",
+    "E": "Geometri"
+},
+{
+    "numarasi": "21",
+    "soru": "17 Şubat 1923’te toplanan Türkiye İktisat Kongresi’nin başkanlığını aşağıdakilerden hangisi yapmıştır?",
+    "A": "Kâzım Karabekir",
+    "B": "Fethi Okyar",
+    "C": "Ali Fuat Cebesoy",
+    "D": "İsmet İnönü",
+    "E": "Mustafa Kemal Atatürk"
+},
+{
+    "numarasi": "22",
+    "I":"halkçılık",
+    "II":"devletçilik",
+    "III":"laiklik",
+    "ustsoru":"Atatürk, “Bizde ruhbanlık yoktur, hepimiz eşitiz ve dinimizin hükümlerini eşit olarak öğrenmeye mecburuz.” şeklindeki sözleriyle;",
+    "soru": "ilkelerinden hangilerine vurgu yapmıştır?",
+    "A": "Yalnız I",
+    "B": "I ve II",
+    "C": "I ve III",
+    "D": "II ve III",
+    "E": "I, II ve III"
+},
+{
+    "numarasi": "23",
+    "soru": "Aşağıdaki Atatürk ilkelerinden hangisinin Fransız İhtilali’nin sonuçlarına dayandığı savunulamaz?",
+    "A": "Devletçilik",
+    "B": "Laiklik",
+    "C": "Milliyetçilik",
+    "D": "Cumhuriyetçilik",
+    "E": "Halkçılık"
+},
+{
+    "numarasi": "24",
+    "soru": "Aşağıdakilerden hangisi İtalyan yayılmacılığına karşı 1936 yılında İngiltere’nin öncülüğünde oluşturulmuştur?",
+    "A": "Bağdat Paktı",
+    "B": "Atlantik Paktı",
+    "C": "Akdeniz Paktı ",
+    "D": "Sadabat Paktı",
+    "E": "Briand-Kellog Paktı"
+},
+{
+    "numarasi": "25",
+    "soru": "1991’de Sovyet Rusya’dan ayrılarak bağımsızlığını ilan eden Türk Cumhuriyetleri arasında, Türkiye tarafından bağımsızlığı en erken tanınan devlet aşağıdakilerden hangisidir?",
+    "A": "Kırgızistan",
+    "B": "Kazakistan",
+    "C": "Özbekistan",
+    "D": "Azerbaycan",
+    "E": "Türkmenistan"
+},
+{
+    "numarasi": "26",
+    "aciklama":"“Binlerce Birleşmiş Milletler askerinin muhakkak bir çemberden kurtuluşunu, Türk askerinin kahramanlığına borçluyuz. Bu başarı Türk milletinin kahramanlık, anane ve menkıbelerine, yeni ve unutulmaz bir şeref sayfasını daha ilave etmiştir.”",
+    "soru": "İngiltere Millî Savunma Bakanı Amenuel Shinwell, bu sözlerini aşağıdaki savaşlardan hangisinin ardından söylemiştir? ",
+    "A": "Kore Savaşı",
+    "B": "Vietnam Savaşı",
+    "C": "Kurtuluş Savaşı",
+    "D": "II. Dünya Savaşı",
+    "E": "Körfez Savaşı"
+},
+{
+    "numarasi": "27",
+    "soru": "1986’dan itibaren ABD ve Batı Avrupa ülkelerinin yağ kullanımını azaltmak, çöpleri yeniden işlemek, su ve enerji tüketiminde tutumlu davranarak yeşil dostu politikalar izlemek gibi çevreye daha duyarlı davranmalarında etkili olan gelişme aşağıdakilerden hangisidir?",
+    "A": "Dünya Ekonomik Buhranı",
+    "B": "II. Körfez Savaşı",
+    "C": "Çernobil Kazası",
+    "D": "Kyoto Protokolü",
+    "E": "Pearl Harlbour Baskını"
+}
+
+    ]
+}

@@ -1,0 +1,295 @@
+{
+    "sorular": [
+
+        {
+            "numarasi": "1",
+            "aciklama": "Türk töresinde devleti kuran hanedanın erkek üyeleri devlet yönetiminde ortak hak sahibiydi.",
+            "soru": " Bu durumun aşağıdakilerden hangisine yol açtığı savunulamaz?",
+            "A": "Hatunların ülke idaresine karışmasına",
+            "B": "Dinî ayaklanmaların çıkmasına",
+            "C": "Ülkenin parçalanmasına",
+            "D": "Taht kavgalarının yaşanmasına",
+            "E": "Üst düzey yöneticilerin, devlet yönetimine müdahalede bulunmasına"
+            },
+            {
+            "numarasi": "2",
+            "soru": "Büyük Selçuklular Dönemi'nde, Hasan Sabbah tarafından kurulan ve önemli devlet adamlarına suikastler düzenleyen Batınî anlayıştaki gizli örgütün mensupları için kullanılan yaygın ifade aşağıdakilerden hangisidir?",
+            "A": "Haşhaşîler",
+            "B": "Babaîler",
+            "C": "Kalenderîler",
+            "D": "Selefîler",
+            "E": "Hâricîler"
+            },
+            {
+            "numarasi": "3",
+            "aciklama":"Gazneliler Devleti, bir başka İslam devletinin (Samanîler) hizmetindeki Türk komutanlar tarafından kurulmuştur.",
+            "soru":  "Aşağıdaki Türk-İslam devletlerinden hangisi kuruluş şekli açısından bu durumla benzerlik gösterir?",
+            "A": "Karahanlı Devleti",
+            "B": "Büyük Selçuklu Devleti",
+            "C": "Altınordu Devleti",
+            "D": "Tolunoğulları Devleti",
+            "E": "Babürlüler Devleti"
+            },
+            {
+            "numarasi": "4",
+            "soru": "Osmanlı Devleti'nde, şehirlerde belirli ihtiyaç mallarının ve ham maddelerin satışının yapıldığı yere verilen ad aşağıdakilerden hangisidir?",
+            "A": "İmaret",
+            "B": "Zaviye",
+            "C": "Menzil",
+            "D": "Kapan",
+            "E": "Kervansaray"
+            },
+            {
+                "numarasi": "5",
+                "aciklama":"Osmanlı padişahları zaman zaman tebdil-i kıyafetle (kıyafet değiştirerek) halkın arasına karışır, bizzat teftiş yaparlardı. Örneğin; Kanuni Sultan Süleyman sipahi, II. Ahmet ise Mevlevi dervişi gibi giyinip halkın ve görevlilerin durumunu denetlemişlerdir. ",
+                "soru":  "Bu bilgilerden hareketle Osmanlı padişahlarının aşağıdakilerden hangisini hedeflediği söylenemez?",
+                "A": "Karahanlı Devleti",
+                "B": "Büyük Selçuklu Devleti",
+                "C": "Altınordu Devleti",
+                "D": "Tolunoğulları Devleti",
+                "E": "Babürlüler Devleti"
+            },
+            {
+                "numarasi": "6",
+                "soru":"Mimar Sinan'ın ustalık eseri olarak kabul edilen ve Osmanlı Klasik Dönemi'nin önemli mimari örneklerinden olan eser aşağıdakilerden hangisidir?",
+                "A": "Şehzadebaşı Camii",
+                "B": "Selimiye Camii ",
+                "C": "Süleymaniye Camii",
+                "D": "Revan Köşkü",
+                "E": "Topkapı Sarayı"
+            },
+            {
+                "numarasi": "7",
+                "aciklama":"Osmanlı Devleti’nde XVI. yüzyıl sonlarına doğru tespit edilebilen nüfus artışı beraberinde ciddi problemler de getirmiş, topraksız genç nüfus çareyi bey, paşa ve saray    kapılarında kul ya da sekban olmakta bulmuştu. Bilhassa Habsburglarla yapılan savaşlar tüfekli piyadenin önemini ortaya koyduğundan devlet, savaşlarda bu ateşli silahları kullanabilen sekbanlardan yararlanmıştı. Ancak seferler sonunda kapısız kalan sekbanlar, ciddi sorunlara sebep olmuştu. Diğer yandan kapıkulu sayısında da önemli bir artış meydana gelmişti.",
+                "soru":  "Bu sürecin sonuçlarıyla ilgili aşağıdakilerden hangisi ileri sürülemez?",
+                "A": "Taşrada asayiş ve güvenliğin sağlandığı ",
+                "B": "Timarlı sipahilerin öneminin azaldığı ",
+                "C": "Devletin askerî alanda yenilik yapması gerektiğ",
+                "D": "Kırdan kentlere göçün yaşandığı",
+                "E": "Kapıları kuvvetli beylerin önem kazandığı"
+            },
+            {
+                "numarasi": "8",
+                "soru":  "Osmanlı Devleti’nde XVII. yüzyılda timar sisteminin bozulmasına bağlı olarak aşağıdaki gelişmelerden hangisinin meydana geldiği söylenebilir?",
+                "A": "Yeniçeri sayısının azaldığı",
+                "B": "Ekberiyyet usulüne geçildiği ",
+                "C": "Tarımsal ürün çeşitliliğinin arttığı",
+                "D": "Müsadere uygulamasının genişlediği",
+                "E": "İltizam sisteminin yaygınlaştığı"
+            },
+            {
+                "numarasi": "9",
+                "I": "Avrupalı devletler karşısında yenilgiler alınması",
+                "II": "Merkezî otoritenin bozulmasıyla ülkede isyanların görülmesi,",
+                "III": "Osmanlı Devleti'nin denge politikası izlemeye başlaması",
+                "ustara":"Bu durumun ortaya çıkmasında;",
+                "ustsoru": "Osmanlı Devleti, XVIII. yüzyılın sonlarından itibaren Avrupa'da meydana gelen gelişmeleri daha yakından takip etmek için Avrupa başkentlerinde daimî elçilikler açmaya başlamıştır.",
+                "soru":  "gelişmelerinden hangilerinin etkili olduğu savunulabilir ?",
+                "A": "Yeniçeri sayısının azaldığı",
+                "B": "Ekberiyyet usulüne geçildiği ",
+                "C": "Tarımsal ürün çeşitliliğinin arttığ",
+                "D": "Müsadere uygulamasının genişlediği",
+                "E": "İltizam sisteminin yaygınlaştığı"
+            },
+            {
+                "numarasi": "10",
+                "aciklama":"Osmanlı tarihinde II. Mahmut Dönemi önemli bir dönüm noktasıdır. Vaka-i Hayriye olarak adlandırılan Yeniçeri Ocağının kaldırılmasıyla yeniliklerin önü açılmıştır. Bu dönemde nazırlıklar, muhtarlıklar ve posta teşkilatı kurulmuş, modern askerî okullar açılmış ve Takvim-i Vakayi adlı ilk resmî gazete yayımlanmış",
+                "soru":  "Bu bilgilere göre aşağıdakilerden hangisine ulaşılamaz?",
+                "A": "Islahat çalışmalarının, halkın istekleri doğrultusunda gerçekleştiğine",
+                "B": "Devlet bürokrasisinde yenilikler yapıldığına ",
+                "C": "Islahatların yapılabilmesi için uygun ortamın sağlandığına",
+                "D": "Merkezî yapının güçlenmesine önem verildiğine",
+                "E": "Yapılan yeniliklerin kamuoyuna duyurulduğuna"
+            },
+            {
+                "numarasi": "11",
+                "soru":  "Aşağıdakilerden hangisi Osmanlı Devleti'nde tebaa için din, mezhep, dil ve cinsiyet bakımından ayırt edici tabir ve vasıfların kullanımını kaldıran Islahat Fermanı'nın amaçlarından biri değildir?",
+                "A": "Gayrimüslimlere Müslümanlarla eşit statü vermek",
+                "B": "Devlet dairelerinde gayrimüslimlerin çalışmasına müsaade etmek ",
+                "C": "Dinî farklılıkların yarattığı gerilimi ortadan kaldırmak",
+                "D": "Devlet düzeninde, laiklik prensiplerini yerleştirmek",
+                "E": "Toplumsal yükümlülükleri tüm kesimlere paylaştırmak"
+            },
+            {
+                "numarasi": "12",
+                "soru":  "Aşağıdakilerden hangisi İngilizlerin böyle bir telkinde bulunmasının sebebi olamaz?",
+                "aciklama":"İngilizler 1880’lerden itibaren Araplara, Halifeliğin onların hakkı olduğunu, Osmanlı Devleti'nden ayrılarak kendi himâyelerinde kurulacak devletlerini destekleyeceklerini telkin etmişlerdir",
+                "A": "Halifelik kurumunu kendi çıkarları doğrultusunda kullanmak",
+                "B": "Osmanlı Devleti’nin gücünü kırmak ",
+                "C": "Ortadoğu’da yeni bir siyasi yapı oluşturmak",
+                "D": "Arapları tek bir devlet etrafında birleştirmek",
+                "E": "Sömürge yollarının güvenliğini sağlamak"
+            },
+            {
+                "numarasi": "13",
+                "soru":  "28 Ocak 1920’de Osmanlı Mebusan Meclisinde kabul edilen Misakımillî kararları göz önüne alındığında, aşağıdakilerden hangisine ulaşılamaz?",
+                "A": "Uluslararası ilişkilerde eşitlik ilkesinin gözetildiğine",
+                "B": "Halkın isteklerine öncelik verildiğine",
+                "C": "Tam bağımsızlık ilkesinin kabul edildiğine",
+                "D": "Vatanın sınırlarının çizildiğine",
+                "E": "Boğazlarla ilgili kararın Milletler Cemiyetine bırakıldığına"
+            },
+            {
+                "numarasi": "14",
+                "aciklama":"Mustafa Kemal’in, Anadolu’da millî bir hareket başlatma çabası, hem işgal kuvvetlerini hem de İstanbul Hükûmetini tedirgin etmiştir. İstanbul Hükûmetinin geri dön çağrılarına uymadığı için görevinden azledilen Mustafa Kemal, askerlikten ve tüm görevlerinden istifa etmiştir",
+                "soru":  "Mustafa Kemal’in gösterdiği bu tutumdan hareketle aşağıdakilerden hangisine ulaşılamaz?",
+                "A": "Mücadele konusunda İstanbul’daki bazı çevrelerden farklı düşündüğüne",
+                "B": "Mondros Mütarekesi’nin koşullarını hafifletmek istediğine ",
+                "C": "Anadolu merkezli bir direniş oluşturmak düşüncesinde olduğuna",
+                "D": "Herhangi bir makam ve mevki peşinde koşmadığına",
+                "E": "İşgal kuvvetlerinin beklentilerinin dışına çıktığına"
+            },
+            {
+                "numarasi": "15",
+                "aciklama":"Sivas Kongresi sonrasında Temsil Heyetinin baskıları sonunda istifa etmek zorunda kalan Damat Ferit Paşa Kabinesinin yerine Padişah Vahdettin, hükûmeti kurma görevini Ali Rıza Paşa'ya vermiştir",
+                "soru":  "Padişah Vahdettin'in, Ali Rıza Paşa gibi ılımlı bir devlet adamına görev vermesinin gerekçeleri arasında aşağıdakilerden hangisi yer almaz?",
+                "A": "Temsil Heyetini İstanbul’da etkili kılmak",
+                "B": "Halk arasında birlik ve beraberliği güçlendirmek ",
+                "C": "Memlekette sükûn ve düzeni sağlamak",
+                "D": "Yasal hükümler içerisinde seçimlerin yapılmasını sağlamak",
+                "E": "Millî hareketi destekleyenlerle iyi ilişkiler kurmak"
+            },
+            {
+                "numarasi": "16",
+                "I":"yasama, yürütme ve yargı yetkisini elinde bulundurması",
+                "II":"yetkilerini Başkomutanlık Yasası’yla Mustafa Kemal’e devretmesi",
+                "III":"çoğulcu yapıya sahip olması",
+                "ustsoru":"Birinci TBMM’nin olağanüstü yetkilere sahip bir meclis olduğuna;",
+                "soru":  "durumlarından hangileri kanıt olarak gösterilebilir?",
+                "A": "Yalnız I",
+                "B": "Yalnız II",
+                "C": "I ve II",
+                "D": "I ve III",
+                "E": "II ve III"
+            },
+            {
+                "numarasi": "17",
+                "ustsoru":"Lozan Konferansı'na katılan devletler hakkında aşağıdaki bilgiler verilmiştir:",
+               "I":"Çağrı yapan devletler: İngiltere, Fransa, İtalya, Japonya.",
+               "II":"Tüm görüşmelere çağrılan devletler: Türkiye, Yunanistan, Romanya, Sırp-Hırvat-Sloven Devleti (Yugoslavya).",
+               "III":"Gözlemci devlet: ABD.",
+               "IV":"Boğazlar statüsü için çağrılan Karadeniz'e kıyısı olan devletler: Sovyet Rusya, Bulgaristan.",
+               "V":"Ticaret ve yerleşme sözleşmelerine katılmak için çağrılanlar: Belçika, Portekiz.",
+                "soru":  "Konferansa katılan devletler ve katılım konuları göz önüne alındığında aşağıdakilerden hangisine ulaşılamaz?",
+                "A": "Lozan Konferansı'nın toplanması için davet Anlaşma Devletlerinden gelmiştir",
+                "B": "Türkiye'nin ve bazı Balkan devletlerinin görüşmelerin hepsinde yer alması istenmiştir.  ",
+                "C": "Konferans görüşmelerine Avrupa kıtası dışından da devletler davet edilmiştir",
+                "D": "Boğazlar konusunda yapılacak görüşmelere çağrılan devletlerin belirlenmesinde ülkelerin coğrafi konumları da etkili olmuştur.",
+                "E": "Lozan Konferansı'nda uluslararası ticaret ile ilgili kuralları Belçika ve Portekiz belirlemiştir."
+            },
+            {
+                "numarasi": "18",
+                "ustsoru":"Başkomutanlık Meydan Savaşı’nın ardından Mustafa Kemal’in “Ordular, ilk hedefiniz Akdeniz’dir. İleri!” emrini vermesinde;",
+                "I":"Güney Cephesi’nde işgal edilen yerleri kurtarmak",
+                "II":" Batı Anadolu’daki işgalleri sona erdirmek",
+                "III":"geri çekilen Yunan ordusunun yeni bir savunma hattı oluşturmasını engellemek",
+                "soru":  "düşüncelerinden hangilerinin etkili olduğu söylenebilir?",
+                "A": "Yalnız I",
+                "B": "Yalnız II ",
+                "C": "Yalnız III",
+                "D": "I ve II",
+                "E": "II ve III"
+            },
+            {
+                "numarasi": "19",
+                "ustsoru":"Gümrü Antlaşması’nın,",
+                "I":"Türkiye ile Ermenistan arasındaki savaş durumuna son verilecektir",
+                "II":"Erivan Hükûmeti, TBMM tarafından reddedilmiş olan Sevr Antlaşması’nı hükümsüz sayacaktır",
+                "III":"Ermenistan’da yaşayan Müslümanlara kendi dinî ve kültürel özelliklerine göre yaşama olanağı sağlanacaktır",
+                "soru":  "maddelerinden hareketle aşağıdaki yargılardan hangisine ulaşılamaz?",
+                "A": "Antlaşmada, askerî ve siyasi konuların dışındaki hükümlere de yer verilmiştir",
+                "B": "Erivan ve TBMM hükûmetleri birbirlerinin varlığını tanımıştır ",
+                "C": "Ermeniler, Türk topraklarındaki taleplerinden vazgeçmiştir",
+                "D": "Türkiye'nin doğu sınırını belirleyen son antlaşma olmuştur.",
+                "E": "Ermenistan’daki Müslüman halkın hakları korunmuştur. "
+            },
+            {
+                "numarasi": "20",
+                "soru":  "Mustafa Kemal’in imzasını değiştirmesinde etkili olan gelişme aşağıdakilerden hangisidir? ",
+                "A": "Latin harfli Türk Alfabesi'nin kabul edilmesi",
+                "B": "Laiklik ilkesinin anayasaya girmesi ",
+                "C": "TBMM tarafından kendisine Gazi unvanı verilmesi",
+                "D": "Türk Dil Kurumunun açılması",
+                "E": "TBMM tarafından kendisine bir soyadı verilmesi"
+            },
+            {
+                "numarasi": "21",
+                "aciklama":"1927 seçimlerine dair Atatürk tarafından belirlenen koşullar arasında, “Milletvekilleri özel hayatlarında, tarım, ticaret, sanayi gibi ekonomiyi ve maliyeyi ilgilendiren çalışmalarında devletin resmî yasalarına bağlı olacaklardır.” maddesi yer almaktadır",
+                "soru":  "Bu maddeyle aşağıdakilerden hangisinin amaçlandığı söylenebilir?",
+                "A": "Milletvekillerinin nüfuzlarını kullanarak çıkar sağlamalarını önlemenin",
+                "B": "Milletvekillerinin Meclise devam sorununu ortadan kaldırmanın ",
+                "C": "Milletvekillerinin ülke gelişimine katkılarını siyasi alanla sınırlamanın",
+                "D": "Milletvekilliğinin ayrıcalıklı bir konum olduğunu halka göstermenin",
+                "E": "Milletvekili maaşlarının yetersiz olduğu gerçeğine dikkat çekmenin"
+            },
+            {
+                "numarasi": "22",
+                "ustsoru":"Atatürk Dönemi’nde;",
+                "I":"Saltanatın kaldırılması,",
+                "II":"Türk Medeni Kanunu’nun kabul edilmesi,",
+                "III":"Soyadı Kanunu’nun çıkarılması,",
+                "IV":"Türk Tarih Kurumunun kurulması",
+                "ustara":"gibi gelişmeler yaşanmıştır.",
+                "soru":"Bu gelişmelerle aşağıdaki ilkelerden hangisi arasında ilişki kurulamaz?",
+                "A": "Halkçılık",
+                "B": "Laiklik ",
+                "C": "Devletçilik",
+                "D": "Cumhuriyetçilik",
+                "E": "Milliyetçilik"
+            },
+            {
+                "numarasi": "23",
+                "aciklama":"İngiltere kendi kontrolünde tutmak istediği, zengin petrol yataklarını barındıran Musul vilayetinin, Türkiye'nin yönetimine girmesini istemiyordu. Bu amaca ulaşmak için de çeşitli yollar denedi",
+                "soru":  "Aşağıdakilerden hangisi İngiltere’nin bu politikasına ulaşmak için başvurduğu yollardan biri değildir?",
+                "A": "Bölgede casusluk faaliyetleri yürütmek",
+                "B": "Musul’da halk oylamasına gidilmesini sağlamak ",
+                "C": "Milletler Cemiyetini kendi çıkarları doğrultusunda kullanmak",
+                "D": "Bölgedeki etnik ve dinsel farklılıklardan yararlanmak",
+                "E": "Türkiye’ye yönelik askerî harekât tehdidinde bulunmak"
+            },
+            {
+
+                
+                "numarasi": "24",
+                "aciklama":"1938 yılında yapılan Türk-Sovyet Antlaşması ile Türkiye Odesa, Bakü, Erivan ve Leningrad’daki; Sovyetler Birliği de İzmir ve Kars’taki konsolosluklarını kapatmıştır.",
+                "soru":  "Bu bilgiden hareketle Türkiye-Sovyetler Birliği ilişkileriyle ilgili aşağıdakilerden hangisine ulaşılabilir?",
+                "A": "Karşılıklılık ilkesiyle hareket ettiklerine",
+                "B": "Dünyadaki gelişmelerin dışında kaldıklarına ",
+                "C": "İki ülke arasındaki ilişkilerin giderek geliştiğine",
+                "D": "Sovyetler Birliği’nin yayılmacı politika uyguladığına",
+                "E": "İkinci Dünya Savaşı öncesinde farklı gruplarda yer aldıklarına"
+            },
+            
+            {
+                "numarasi": "25",
+                "aciklama":"İkinci Dünya Savaşı’nın sonuna doğru 1945’te ABD, İngiltere ve SSCB liderleri Yalta Konferansı’nda bir araya gelmişler ve burada yayımladıkları bildiride savaş sonrası Avrupa’da yeni düzenin yerleşmesi için bazı ilkeler ortaya koymuşlardır",
+                "soru":  "Aşağıdakilerden hangisi bu ilkelerden biri değildir?",
+                "A": "Nazizm ve Faşizm’in kalıntılarının ortadan kaldırılmasını sağlamak",
+                "B": "Demokratik kurumların oluşturulmasını desteklemek ",
+                "C": "Toplumlara yönetim şekillerini belirleme hakkı vermek",
+                "D": "İşgalci güçlerin zorla aldığı egemenlik ve otonomi hakkını toplumlara iade etmek ",
+                "E": "Temel hak ve özgürlüklerin sınırlandırılması konusunda devletleri serbest bırakmak "
+            },
+             
+
+            {
+                "numarasi": "26",
+                "soru":  "Aşağıdakilerden hangisi, İkinci Dünya Savaşı sonrası Avrupa’da meydana gelen sosyal ve ekonomik gelişmelerden biri değildir?",
+                "A": "Kadınların iş hayatında daha fazla yer alması",
+                "B": "Nüfus artışının yaşanması ",
+                "C": "Devletlerin askerî harcamalarının artması",
+                "D": "SSCB tarafından uzaya ilk uydunun gönderilmes",
+                "E": "Radyonun günlük hayatta kullanılmaya başlanması"
+            },
+            {
+                "numarasi": "27",
+                "soru":  "1992-1995 yıllarındaki Bosna Savaşı sırasında Bosna-Hersek'in bağımsızlığını kazanmasında önemli rolü bulunan ve 'Bilge Lider' olarak bilinen devlet başkanı, aşağıdakilerden hangisidir?",
+                "A": "Ebulfeyz Elçibey",
+                "B": "Enver Hoca ",
+                "C": "Sadık Ahmet",
+                "D": "Aliya İzzetbegoviç",
+                "E": "Saparmurad Niyazov"
+            }
+    ]
+
+}

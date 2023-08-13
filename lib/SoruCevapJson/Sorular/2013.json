@@ -1,0 +1,284 @@
+{
+    "sorular": [
+        {
+            "numarasi": "1",
+            "ustsoru":"Orta Asya’da kurulan ilk Türk devletleriyle ilgili olarak,",
+            "I":"Ülke; töre adı verilen, yazılı olmayan hukuk kurallarına göre yönetilmiştir.",
+            "II":"Toprak, yurt olarak adlandırılmıştır.",
+            "III":"Hükümdara devlet yönetimiyle ilgili konularda yardımcı olmak üzere danışma meclisleri kurulmuştur.",
+            "soru": "yargılarından hangileri doğrudur?",
+            "A": "Yalnız I",
+            "B": "Yalnız III",
+            "C": "I ve II",
+            "D": "II ve III",
+            "E": "I , II ve III"
+        },
+        {
+            "numarasi": "2",
+            "soru": "Kayseri'deki Gevher Nesibe Hatun, Aksaray'daki Alaeddin Keykubat ve Divriği'deki Turan Melek adlı Türkiye Selçukluları Dönemi’ne ait eserler aşağıdaki yapı türlerinden hangisine girer? ",
+            "A": "Kervansaray",
+            "B": "İmarethane",
+            "C": "Darüşşifa",
+            "D": "Medrese",
+            "E": "Külliye"
+        },
+        {
+            "numarasi": "3",
+            "soru": "Anadolu’da kurulan ilk beyliklerden biri olan ve 1072-1202 yılları arasında Erzurum ve çevresinde hüküm süren; Üç Kümbetler ve Mama Hatun Türbesi gibi eserleri günümüze ulaşan beylik aşağıdakilerden hangisidir? ",
+            "A": "Danişmentliler",
+            "B": "Saltuklular",
+            "C": "Artuklular",
+            "D": "Mengücekler",
+            "E": "Sökmenliler"
+        },
+        {
+            "numarasi": "4",
+            "soru": "Osmanlı Beyliği’nin Rumeli’ye geçişinde aşağıdakilerden hangisi etkili olmamıştır?",
+            "A": "Bizans İmparatorluğu’ndaki taht mücadeleleri",
+            "B": "Karesioğulları Beyliği’nin Osmanlı egemenliğine geçmesi ",
+            "C": "Karamanoğulları Beyliği'nin desteği",
+            "D": "Gaza düşüncesi ile hareket edilmesi",
+            "E": "Uçlarda Bizans İmparatorluğu’na en yakın bölgede bulunması "
+        },
+        {
+            "numarasi": "5",
+            "ustsoru":"Osmanlı Devleti’nin kuruluş ve yükseliş döneminde oluşturduğu kültürde;",
+            "I":"Orta Asya Türklerinin.",
+            "II":"Müslümanların.",
+            "III":"fethedilen yerlerin ahalisinin",
+            "soru": "yaşam tarzı ve inanışlarından hangilerinin etkili olduğu savunulabilir?",
+            "A": "Yalnız I",
+            "B": "Yalnız II",
+            "C": "Yalnız III",
+            "D": "I ve II",
+            "E": "I , II ve III"
+        },
+        {
+            "numarasi": "6",
+            "soru": "Osmanlı Devleti’nde Divanıhümayun’un üyelerinden reisülküttap, zamanla aşağıdakilerden hangisine dönüşmüştür?",
+            "A": "Hariciye nazırı",
+            "B": "Maarif nazırı",
+            "C": "Maliye nazırı",
+            "D": "Serasker",
+            "E": "Dahiliye nazırı"
+        },
+        {
+            "numarasi": "7",
+            "soru": "Osmanlı Devleti’nde esnaf teşkilatının usta sayısını sınırlı tutmasının nedeni aşağıdakilerden hangisidir?",
+            "A": "İhracatın teşvik edilmesi ",
+            "B": "Ürün arzının talebe göre ayarlanması ",
+            "C": "Para ekonomisine kısa zamanda geçilmek istenmesi",
+            "D": "Tarım ürünlerinin ön plana çıkarılması",
+            "E": "Askerlik hizmetinin gözetilmesi"
+        },
+        {
+            "numarasi": "8",
+            "soru": "Osmanlı toplumunda uzun yıllar Millet-i Sadıka olarak bilinen Ermeni toplumunun isteklerinin zamanla bir soruna dönüşmesinde aşağıdakilerden hangisinin etkili olduğu savunulamaz?",
+            "A": "Avrupa devletlerinin kışkırtmacı politikası ",
+            "B": "Fransız ihtilalıyla gelişen milliyetçilik düşüncesi",
+            "C": "Balkanlarda oturan Hristiyan toplulukların bağımsızlıklarını kazanması",
+            "D": "Rusya ve İngiltere’nin, Ermenilerle ilgili ıslahat yapılması için Osmanlı Devleti'ne baskı yapması",
+            "E": "Osmanlı Devleti’nin, Osmanlıcılık fikrini uygulamaya koyması"
+        },
+        {
+            "numarasi": "9",
+            "soru": "Aşağıdaki padişah - gerçekleştirdiği yenilik eşleştirmelerinden hangisi yanlıştır?",
+            "A": "III. Selim - Nizam-ı Cedid",
+            "B": "II. Mahmut - Sened-i İttifak",
+            "C": "Abdülmecit - Tanzimat Fermanı",
+            "D": "Abdülaziz - Islahat Fermanı",
+            "E": "II. Abdülhamit - Kanunuesasi"
+        },
+        {
+            "numarasi": "10",
+            "I":"Medresenin yanında modern askerî ve sivil okullar açıldı.",
+            "II":"İstanbul'da kız ve erkek çocuklara ilköğretim zorunlu hâle getirildi.",
+            "III":"Yurt dışına öğrenci gönderilmeye devam edildi.",
+            "ustsoru":"II. Mahmut Dönemi’nde eğitim alanında gerçekleştirilen yeniliklerden bazıları şunlardır:",
+            "soru": "Yalnız bu bilgilerle II. Mahmut Dönemi ile ilgili olarak aşağıdakilerden hangisi savunulamaz?",
+            "A": "Okuryazarlık oranında artış olmuştur",
+            "B": "Eğitimde ikilik ortaya çıkmıştır.",
+            "C": "Karma eğitime geçilmiştir.",
+            "D": "Batıdan yeni yöntem ve kurumlar alınmıştır.",
+            "E": "Orduda yenileşme süreci hızlanmıştır."
+        },
+        {
+            "numarasi": "11",
+            "soru": "Osmanlı Devleti’nde XIX. yüzyılda savunulan İslamcılık fikriyle ilgili olarak aşağıdakilerden hangisi söylenemez?",
+            "A": "Devletin bütünlüğünün dinî esaslara uyulmakla sağlanacağı fikrini savunmuştur.",
+            "B": "Din ve ümmet birdir, düşüncesiyle halifelik makamı ön plana çıkarılmıştır.",
+            "C": "Osmanlıcılık fikrinin uygulanamayacağı düşüncesiyle gündeme gelmiştir.",
+            "D": "II. Abdülhamit Dönemi’nde devlet politikası hâline gelmiştir",
+            "E": "I. Meşrutiyet'in ilanı ile etkisini yitirmiştir."
+        },
+        {
+            "numarasi": "12",
+            "ustsoru":"Osmanlı Devleti’nde XX. yüzyılın başlarında görülen;",
+            "I":"İkinci Meşrutiyet’in ilanı",
+            "II":"Babıali Baskını,",
+            "III":"31 Mart Vakası",
+            "soru": "olaylarının kronolojik sıralaması aşağıdakilerden hangisidir?",
+            "A": "I, II, III",
+            "B": "I, III, II",
+            "C": "II, I, III",
+            "D": "III, I, II",
+            "E": "III, II, I"
+        },
+        {
+            "numarasi": "13",
+            "I":"Mavri Mira,",
+            "II":"Pontus Rum,",
+            "III":"Hürriyet ve İtilaf,",
+            "IV":"İngiliz Muhipleri",
+            "ustsoru":"Mondros Ateşkes Anlaşması’nın 7. maddesine işlerlik kazandırmak amacıyla;",
+            "soru": "kuruluşlarından hangileri, fiilî hareketlerde bulunmuştur?",
+            "A": "I ve II ",
+            "B": "II ve IV",
+            "C": "III ve IV",
+            "D": "I, II ve III",
+            "E": "II, III ve IV"
+        },
+        {
+            "numarasi": "14",
+            "I":"Mustafa Kemal ve Kongre liderlerinin tutuklanması için Ali Galip’in görevlendirilmesi",
+            "II":"İngilizlerin, Anadolu’da kendileri için tehlikeli gördükleri stratejik mevkileri işgal etmesi",
+            "III":"Ankara Valisi Muhittin Paşa’nın, Kongreyi engellemek ve Mustafa Kemal ile arkadaşlarını tutuklamakla görevlendirilmesi",
+            "soru": "Damat Ferit Hükûmeti, bu önlemleri aşağıdaki kongrelerden hangisini engellemek amacıyla uygulamaya koymuştur?",
+            "A": "Erzurum",
+            "B": "Pozantı",
+            "C": "Alaşehir",
+            "D": "Balıkesir",
+            "E": "Sivas"
+        },
+        {
+            "numarasi": "15",
+            "soru": "İzmir’in Yunan askerleri tarafından işgal edilmesinin öncelikle aşağıdakilerden hangisine neden olduğu savunulabilir?",
+            "A": "Müdafaa-i Hukuk Cemiyetlerinin birleştirilmesine",
+            "B": "İsmet Paşa'nın Batı Cephesi komutanlığına atanmasına",
+            "C": "Redd-i İlhak Cemiyeti’nin kurulmasına",
+            "D": "Tekâlif-i Milliye Emirlerinin yayımlanmasına",
+            "E": "Hıyanet-i Vataniye Kanunu’nun çıkarılmasına "
+        },
+        {
+            "numarasi": "16",
+            "aciklama":"TBMM’nin birinci döneminde milletvekilleri sekiz ay maaşsız çalışmışlar, bir yıl sonra da 100 lira olan maaşlarının % 20’sini, bütçe açığını kapatmak amacıyla iade etmişlerdir.",
+            "soru": "Bu durumun, aşağıdakilerden hangisini gösterdiği savunulabilir?",
+            "A": "Ülke çıkarlarını her şeyin üstünde gördüklerini",
+            "B": "TBMM’nin, farklı düşüncedeki kişilerden oluştuğunu",
+            "C": "Kişisel çıkar ve ideolojilerin ön planda tutulduğunu",
+            "D": "TBMM’nin üstünde bir gücün tanınmadığını",
+            "E": "Anayasal düzenin uygulanmaya başladığını"
+        },
+        {
+            "numarasi": "17",
+            "soru": "Aşağıdakilerden hangisi, Yeni Türk Devleti’nin kuruluşuna işaret eden gelişme olarak kabul edilebilir?",
+            "A": "Takrir-i Sükûn Kanunu’nun çıkarılması",
+            "B": "Halifeliğin kaldırılması",
+            "C": "Başkomutanlık Kanunu’nun kabul edilmesi",
+            "D": "TBMM’nin açılması",
+            "E": "Tevhid-i Tedrisat Kanunu’nun çıkarılması"
+        },
+        {
+            "numarasi": "18",
+            "soru": "24 Temmuz 1923'te imzalanan Lozan Barış Antlaşması’nda Türkiye'yi temsil eden delegasyonda yer alan kişiler aşağıdakilerden hangisinde birlikte verilmiştir?",
+            "A": "Kâzım Karabekir Paşa, Refet Bey, İsmet Paşa",
+            "B": "Fevzi Paşa, Rauf Bey, Rıza Nur Bey",
+            "C": "İsmet Paşa, Rıza Nur Bey, Hasan Bey",
+            "D": "Rıza Nur Bey, Bekir Sami Bey, Yusuf Hikmet Bey",
+            "E": "İsmet Paşa, Fevzi Paşa, Rauf Bey"
+        },
+        {
+            "numarasi": "19",
+            "soru": "Türkiye Cumhuriyeti’nde azınlıkların özel hukuk alanına ilişkin farklı konum ve durumlarını sona erdiren yasal düzenleme aşağıdakilerden hangisidir?",
+            "A": "Tevhid-i Tedrisat Kanunu ",
+            "B": "Takrir-i Sükûn Kanunu",
+            "C": "Türk Medeni Kanunu",
+            "D": "Türk Ceza Kanunu",
+            "E": "Hıyanet-i Vataniye Kanunu"
+        },
+        {
+            "numarasi": "20",
+            "soru": "Aşağıdakilerden hangisiyle Türkiye Cumhuriyeti’nin, ekonomik ve mali bağımsızlığını sınırlandıran engellerden kurtulduğu savunulamaz?",
+            "A": "Türkiye Cumhuriyet Merkez Bankasının kurulmasıyla",
+            "B": "Tekâlif-i Milliye Emirlerinin yayımlanmasıyla",
+            "C": "Kapitülasyonların kaldırılmasıyla",
+            "D": "Düyun-ı Umumiye İdaresinin yetkisinin borçlarla sınırlandırılmasıyla",
+            "E": "Kabotaj Kanunu’nun kabul edilmesiyle"
+        },
+        {
+            "numarasi": "21",
+            "aciklama":"Atatürk, vasiyetinde Türkiye İş Bankasında kendisine ait hisse gelirlerinin bir kısmını Türk Tarih Kurumu ve Türk Dil Kurumuna bırakmıştır",
+            "soru": "Atatürk’ün, bu uygulamayla aşağıdakilerden hangisini amaçladığı savunulamaz?",
+            "A": "Kurumların maddi bağımsızlığını garanti altına almayı",
+            "B": "Bilimsel çalışmalar yapılmasına imkân sağlamayı",
+            "C": "Kurumların, varlıklarını uzun süre koruyabilmelerini",
+            "D": "Millî bilinç oluşumuna yönelik faaliyetleri desteklemeyi",
+            "E": "Kurumları siyasi iktidarın bir parçası hâline getirmeyi"
+        },
+        {
+            "numarasi": "22",
+            "I":"Cumhuriyet Halk Partisi",
+            "II":"Terakkiperver Cumhuriyet Partisi",
+            "III":"Serbest Cumhuriyet Partisi",
+            "soru": "Yukarıdakilerden hangilerinin kuruluşunda Atatürk'ün rolü ve katkısı vardır?",
+            "A": "Yalnız I",
+            "B": "Yalnız II",
+            "C": "I ve II",
+            "D": "I ve III",
+            "E": "I, II ve III"
+        },
+        {
+            "numarasi": "23",
+            "ustsoru":"1929 yılından itibaren Türk-İngiliz ilişkileri;",
+            "I":"Almanya",
+            "II":"İtalya",
+            "III":"Fransa",
+            "soru": "devletlerinden hangilerinin, Orta Doğu’daki siyasi ve ekonomik nüfuzlarını artırma çabalarının etkisi altında gelişmiştir?",
+            "A": "Manihaizm",
+            "B": "Budizm",
+            "C": "İslamiyet",
+            "D": "Hristiyanlık",
+            "E": "Şamanizm"
+        },
+        {
+            "numarasi": "24",
+            "soru": "Aşağıdakilerden hangisi, Mustafa Kemal Atatürk'ün hayatını anlatan biyografik bir eserdir?",
+            "A": "Ankara",
+            "B": "Tek Adam",
+            "C": "Üç Devirde Bir Adam",
+            "D": "Onlar da Çocuktu",
+            "E": "Türk'ün Ateşle İmtihanı"
+        },
+        {
+            "numarasi": "25",
+            "soru": "Aşağıdakilerden hangisi, Demokrat Parti Dönemi’nde Atatürk ile ilgili olarak yapılan çalışmalardan biri değildir?",
+            "A": "Atatürk’ün hazineye devrettiği Atatürk Orman Çiftliği arazisinin parçalanmasını, yasayla önlemek",
+            "B": "Atatürk aleyhine işlenen suçlara ilişkin özel bir yasa çıkarmak",
+            "C": "Anıtkabir’i tamamlayarak Atatürk’ün naaşını buraya taşımak",
+            "D": "Devlet dairelerine, yalnızca Atatürk’ün resminin asılmasını sağlayacak bir genelge yayımlamak",
+            "E": "Atatürk’ün öngördüğü üniversiteyi, ona ithafen Erzurum’da kurmak"
+        },
+        {
+            "numarasi": "26",
+            "ustsoru": "İkinci Dünya Savaşı’nın ardından;",
+            "I":"Almanya",
+            "II":"Kore",
+            "III":"Japonya",
+            "soru":"topraklarının hangilerinde farklı rejimlerle yönetilen iki ayrı devlet kurulmuştur?",
+            "A": "Yalnız I",
+            "B": "Yalnız II",
+            "C": "Yalnız III",
+            "D": "I ve II",
+            "E": "II ve III"
+        },
+        {
+            "numarasi": "27",
+            "soru": "1950’li yılların başlarında Kıbrıs'ın Yunanistan'a bağlanması amacı ile Yorgo Grivas liderliğinde kurulmuş Rum örgütü aşağıdakilerden hangisidir?",
+            "A": "EOKA",
+            "B": "IMRO",
+            "C": "Mavri Mira",
+            "D": "Etniki Eterya",
+            "E": "Pontus"
+        }
+    ]
+}

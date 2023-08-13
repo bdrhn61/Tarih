@@ -1,0 +1,282 @@
+{
+    "sorular": [
+        {
+            "numarasi": "1",
+            "soru": "Aşağıdakilerden hangisi Türk tarihinde önemli bir yeri olan Uygurlarla ilgili değildir?",
+            "A": "Yerleşik hayat tarzını yaygınlaştırmışlardır.",
+            "B": "Maniheizm dinini benimsemişlerdir.",
+            "C": "Yazılı hukuk belgeleri düzenlemişlerdir.",
+            "D": "Kalıp baskı yöntemiyle kitap çoğaltmışlardır.",
+            "E": "Tarihlerini Manas Destanı’yla anlatmışlardır."
+        },
+        {
+            "numarasi": "2",
+            "soru": "Eski Türklerin “Güneş bayrağımız, gökyüzü çadırımız.” sözüyle aşağıdakilerden hangisi vurgulanmaktadır?",
+            "A": "Kut",
+            "B": "İkili yönetim",
+            "C": "Ordu-millet",
+            "D": "Töre",
+            "E": "Cihan hâkimiyeti"
+        },
+        {
+            "numarasi": "3",
+            "ustsoru": "Anadolu Selçuklu Devleti’yle ilgili,",
+            "soru": "yargılarından hangileri söylenebilir?",
+            "I": "Nizamiye medreseleri adı altında ilk medreseleri kurmuşlardır.",
+            "II": " Haçlı seferlerine karşı mücadele etmişlerdir.",
+            "III": "Kervansaraylar yaparak ticari hayatın canlanmasına yardımcı olmuşlardır.",
+            "A": "Yalnız I",
+            "B": "Yalnız II",
+            "C": "I ve II",
+            "D": "II ve III",
+            "E": "I, II ve III"
+        },
+        {
+            "numarasi": "4",
+            "aciklama": "Osmanlı Devleti’nde mirî toprak rejimi çerçevesinde köylünün; toprağı habersiz terk etmemesi, sebepsiz olarak üç yıl boş bırakmaması ve ürettiği ürünün vergilerini ödemesi beklenirdi. Köylü toprağı satamaz, vakfedemez ve devredemezdi. Ölen kişinin toprakları oğullarına geçerdi. ",
+            "soru": "Buna göre mirî toprak rejimiyle aşağıdakilerden hangisinin amaçlandığı söylenemez?",
+            "A": "Özel mülkiyetin yaygınlaştırılması ",
+            "B": "Üretimde sürekliliğin sağlanması",
+            "C": "Nüfus hareketlerinin denetlenmesi",
+            "D": "Devlet gelirlerinin tahmin edilebilir kılınması",
+            "E": "Merkezî otoritenin güçlendirilmesi"
+        },
+        {
+            "numarasi": "5",
+            "aciklama": "Veziriazam Osman Paşa, 1584 yılında İran üzerine düzenlenecek sefer için, Anadolu’dan kapıkulu ocaklarında is",
+            "soru": " Bu bilgi de dikkate alınarak Osmanlı ordusuyla ilgili aşağıdakilerden hangisine ulaşılabilir?",
+            "A": "Yeniçeri Ocağının Türk kökenlilere açıldığına",
+            "B": "Timar sisteminin yeniden düzenlendiğine",
+            "C": "Devşirme sisteminin ortadan kalktığına",
+            "D": "Eyalet ordularının güçlendiğine",
+            "E": "Askerî harcamaların azaldığına"
+        },
+        {
+            "numarasi": "6",
+            "I": "Tereke defterlerinde; büyük miktarda nakit parası, borcu ve alacağı olan kadınların bulunması",
+            "II": "Zenginlerin haremlerine kumaş ve mücevherat satan kadınların olması",
+            "III": "Nikah sözleşmelerinde yüksek miktarda mehir takdir edilmiş kadınlara rastlanması",
+            "soru": "Yukarıdakilerden hangileri Klasik Dönem Osmanlı ekonomik hayatında kadınların da aktif olduğunu göstermektedir?",
+            "A": "Yalnız I",
+            "B": "Yalnız II",
+            "C": "I ve II",
+            "D": "II ve III",
+            "E": "I, II ve III"
+        },
+        {
+            "numarasi": "7",
+            "soru": "Askerî yenilgiler sonrasında Batı dünyasıyla siyasi ilişkiler dışında teknik ve kültürel alanlarda da temasa geçilmesi gerekliliği, aşağıdakilerin hangisinde ilk kez ortaya çıkmıştır?",
+            "A": "II. Meşrutiyet Devri",
+            "B": "Lale Devri",
+            "C": "Nizam-ı Cedit Devri",
+            "D": "Tanzimat Devri",
+            "E": "I. Meşrutiyet Devri"
+        },
+        {
+            "numarasi": "8",
+            "soru": "Osmanlı Devleti ilk daimî elçiliğini aşağıdaki Avrupa başkentlerinin hangisinde açmıştır?",
+            "A": "Berlin",
+            "B": "Viyana",
+            "C": "Paris",
+            "D": "Londra",
+            "E": "Moskova"
+        },
+        {
+            "numarasi": "9",
+            "aciklama": "Tarih Öğretmeni Yasemin: “II. Mahmut, Osmanlı merkezteşkilatında köklü idari değişiklikler yapmıştır.” diyerek öğrencilerinden bu duruma örnek vermelerini istemiştir.",
+            "soru": "Aşağıdakilerden hangisi Yasemin Öğretmen’in öğrencilerinden istediği bu örneklerden biridir?",
+            "A": "Sekban-ı Cedit Ocağının kurulması",
+            "B": "Heyet-i Vükelanın oluşturulması",
+            "C": "Mekteb-i Harbiyenin açılması",
+            "D": "Yeniçeri Ocağının kaldırılması",
+            "E": "Muzika-i Hümayunun kurulması"
+        },
+        {
+            "numarasi": "10",
+            "soru": "Aşağıdakilerden hangisi, Osmanlı Devleti’nde İslamcılık düşüncesini savunan yayın organlarından biridir?",
+            "A": "Sebilürreşat",
+            "B": "Tercüman-ı Ahval",
+            "C": "Genç Kalemler",
+            "D": "İçtihat",
+            "E": "Öğüt"
+        },
+        {
+            "numarasi": "11",
+            "soru": "Birinci Dünya Savaşı sırasında Medine’yi müdafaa eden Osmanlı kuvvetlerinin komutanı, aşağıdakilerden hangisidir?",
+            "A": "Cemal Paşa",
+            "B": "Fahrettin Paşa",
+            "C": "Halil Paşa",
+            "D": "Cevat Paşa",
+            "E": "Sakallı Nurettin Paşa"
+        },
+        {
+            "numarasi": "12",
+            "soru": "Birinci Dünya Savaşı sonunda toplanan Paris Barış Konferansı’na katılarak Osmanlı Devleti’nden ayrılma isteklerini belirten Müslüman ve gayrimüslim unsurların temsilcileri, Willson İlkeleri’ne dayanarak bağımsızlık taleplerini aşağıdaki etkenlerden hangisi üzerine inşa etmişlerdir?",
+            "A": "Din",
+            "B": "Nüfus",
+            "C": "Ekonomi",
+            "D": "Sosyal sınıf",
+            "E": "Rejim"
+        },
+        {
+            "numarasi": "13",
+            "soru": "Mustafa Kemal Paşa aşağıdakilerden hangisinin hazırlıkları sırasında, Osmanlı Hükûmeti tarafından IX. Ordu Müfettişliği görevinden alınması üzerine bütün görevlerinden istifa ederek sineyimillete dönmüştür?",
+            "A": "Havza Bildirisi",
+            "B": "Erzurum Kongresi",
+            "C": "Amasya Görüşmeleri",
+            "D": "Amasya Genelgesi",
+            "E": "TBMM’nin açılması"
+        },
+        {
+            "numarasi": "14",
+            "soru": "4 Eylül 1919’da toplanan Sivas Kongresi’yle ilgili aşağıdakilerden hangisi yanlıştır?",
+            "A": "Delegeler, ittihatçı olmadıklarını ispat etmeye çalışmışlardır.",
+            "B": "Kongre başkanlığı konusunda tartışmalar yaşanmıştır.",
+            "C": "Bolşevik propagandası, görüşmelere damga vurmuştur.",
+            "D": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti kurulmuştur.",
+            "E": "Erzurum Kongresi’nde alınan kararlar kabul edilmiştir."
+        },
+        {
+            "numarasi": "15",
+            "aciklama": "Damat Ferit Paşa Hükûmetinin Anadolu’dan gelen baskılar sonucunda istifa etmesinden sonra, Ali Rıza Paşa Hükûmeti kurulmuş ve bu yeni kabinenin Temsil Heyetinden bazı istekleri olmuştur.",
+            "soru": " Aşağıdakilerden hangisi bu istekler arasında yer almaz?",
+            "A": "El konulan resmî dairelerin boşaltılması",
+            "B": "İstanbul ve Anadolu arasındaki iletişimin yeniden kurulması",
+            "C": "Hükûmet uygulamalarına saygı gösterilmesi",
+            "D": "Seçimlere müdahale edilmemesi",
+            "E": "Ülkenin birlikte yönetilmesi"
+        },
+        {
+            "numarasi": "16",
+            "soru": "İtilaf Devletleri’nin Haziran 1920’de Yunanlılara Milne Hattı’nı aşarak Batı Anadolu’da işgallerini genişletmesi konusunda izin vermesi, aşağıdakilerden hangisiyle ilişkilendirilebilir?",
+            "A": "Osmanlı Hükûmetini barış antlaşması imzalamaya zorlamak",
+            "B": "Padişahın cihat çağrısını etkisiz kılmak",
+            "C": "Sivas'ta ulusal bir kongrenin toplanmasını önlemek",
+            "D": "Mebusan Meclisinde Misakımillî’nin kabul edilmesini engellemek",
+            "E": "Cemiyetlerin tek çatı altında birleşmesinin önüne geçmek"
+        },
+        {
+            "numarasi": "17",
+            "soru": "Mustafa Kemal Paşa’nın 26 Ağustos 1922’de başlayan Büyük Taarruz sırasında bizzat yönettiği “Başkumandan Meydan Muharebesi”, savaşın geçtiği yer nedeniyle aşağıdaki isimlerden hangisiyle de anılmaktadır?",
+            "A": "İnönü",
+            "B": "Sakarya",
+            "C": "Dumlupınar",
+            "D": "Eskişehir-Kütahya",
+            "E": "Gediz"
+        },
+        {
+            "numarasi": "18",
+            "aciklama": "23 Nisan 1920’de toplanan Birinci TBMM’de farklı görüş ve düşüncelere mensup milletvekilleri bulunmuştur. Görüşleri birbirine yakın milletvekilleri zamanla çeşitli gruplar oluşturmuştur",
+            "soru": "Aşağıdakilerden hangisi bu gruplardan biri değildir?",
+            "A": "İstiklal Grubu",
+            "B": "Halk Zümresi",
+            "C": "Islahat Grubu",
+            "D": "Mim Mim Grubu",
+            "E": "Tesanüt Grubu"
+        },
+        {
+            "numarasi": "19",
+            "soru": "1923 yılında İzmir’de toplanan Türkiye İktisat Kongresi’nde alınan kararlardan hangisinin, ülkede üretim ve sanayi altyapısından çok, tüketim alışkanlıklarını düzenleme niteliği taşıdığı söylenebilir?",
+            "A": "Ham maddesi yurt içinden temin edilen sanayi dalları kurulmalıdır.",
+            "B": "El işçiliğinden ve küçük imalattan süratle fabrikaya ve büyük işletmeye geçilmelidir.",
+            "C": "Devlet, özel sektör tarafından gerçekleştirilemeyen yatırımlara öncülük etmelidir.",
+            "D": "İşletmelere kredi sağlayacak bankalar kurulmalıdır.",
+            "E": "Yerli malı kullanımı ve tasarruf özendirilmelidir."
+        },
+        {
+            "numarasi": "20",
+            "soru": "Aşağıdakilerden hangisi, Lozan Görüşmeleri’nin kesintiye uğradığı 4 Şubat-23 Nisan 1923 tarihleri arasında Türk iç politikasında yaşanan gelişmelerden biridir?",
+            "A": "TBMM’de seçim kararı alınması",
+            "B": "Saltanatın kaldırılması",
+            "C": "Ankara’nın başkent olması",
+            "D": "İsmet Paşa’nın Dışişleri Bakanlığına getirilmesi",
+            "E": "Takrir-i Sükûn Kanunu’nun çıkarılması"
+
+                
+        },
+        {
+            "numarasi": "21",
+            "soru": "Aşağıdaki gelişmelerden hangisi, Sivas Mebusu Rauf Bey tarafından 2 Kasım 1922 tarihinde sunulan önergenin 24 Ekim 1923’te yasalaşmasıyla 1935 yılına kadar “Hâkimiyet Bayramı” olarak kutlanmıştır?",
+            "A": "Cumhuriyet’in ilan edilmesi",
+            "B": "Halifeliğin kaldırılması",
+            "C": "Misakımillî’nin ilan edilmesi",
+            "D": "Saltanatın kaldırılması",
+            "E": "Lozan Antlaşması’nın imzalanması"
+
+                
+        },
+        {
+            "numarasi": "22",
+            "aciklama":"Mustafa Kemal Atatürk, “Din, bir vicdan meselesidir. Herkes, vicdanının emrine uymakta serbesttir. Biz dine saygı gösteririz. Düşünüşe karşı değiliz. Biz sadece, din işlerini millet ve devlet işleriyle karıştırmamaya çalışıyor, kaste ve fiile dayanan taassupkâr hareketlerden sakınıyoruz.” demiştir.",
+            "ustsoru":"Bu ifade;",
+            "I":"halifeliğin kaldırılması,",
+            "II":"tekke, zaviye ve türbelerin kapatılması,",
+            "III":"Türk Medeni Kanunu'nun kabul edilmesi",
+            "soru": "gelişmelerinden hangileriyle ilişkilendirilebilir?",
+            "A": "Yalnız I",
+            "B": "Yalnız III",
+            "C": "I ve III",
+            "D": "II ve III",
+            "E": "I, II ve III"
+        },
+        {
+            "numarasi": "23",
+            "soru": "Aşağıdakilerden hangisi Atatürk Dönemi’nde eğitim alanında yapılan yeniliklerden biri değildir?",
+            "A": "Maarif Teşkilatıyla ilgili bir kanun çıkarılması",
+            "B": "Yeni Türk harflerinin kabul edilmesi",
+            "C": "Üniversite Reformu’nun gerçekleştirilmesi",
+            "D": "Millet Mekteplerinin açılması",
+            "E": "Türk Ocaklarının kurulması"
+
+                
+        },
+        {
+            "numarasi": "24",
+            "soru": "Türk İnkılabı’nın temelini oluşturan Atatürk İlkeleri’yle ilgili aşağıdakilerden hangisi söylenemez?",
+            "A": "Devletçilik, diğerlerinden sonra uygulama alanı bulmuştur.",
+            "B": "Fransız Devrimi’nden etkilenmiştir.",
+            "C": "Atatürk’ün ölümünden sonra CHP’nin programına girmiştir.",
+            "D": "1937 yılında Anayasa hükmü hâline getirilmiştir.",
+            "E": "“Kemalizmin Prensipleri” olarak da tanımlanmıştır."
+
+            
+ 
+ 
+        },
+        {
+            "numarasi": "25",
+            "soru": "Almanya’nın Avusturya ve Çekoslovakya’yı işgal ederek yayılmacı ve saldırgan bir politika izlemesi karşısında, İngiltere’nin geliştirdiği ve Başbakan Chamberlain ile özdeşleşen politika aşağıdakilerden hangisidir?",
+            "A": "Yalnızlık",
+            "B": "Aktif tarafsızlık",
+            "C": "Mekik diplomasisi",
+            "D": "Yatıştırma",
+            "E": "Yumuşama"
+
+                 
+        },
+        {
+            "numarasi": "26",
+            "soru": "Demokrat Parti Dönemi’nde, ABD üniversiteleri modeline uygun olarak kurulan yükseköğretim kurumu aşağıdakilerden hangisidir?",
+            "A": "İstanbul Teknik Üniversitesi",
+            "B": "Orta Doğu Teknik Üniversitesi",
+            "C": "Hacettepe Üniversitesi",
+            "D": "Ankara Üniversitesi",
+            "E": "Ege Üniversitesi"
+
+                
+        },
+        {
+            "numarasi": "27",
+            "soru": "Aşağıdakilerden hangisi SSCB’nin Soğuk Savaş Dönemi’nde izlediği politikalardan biri değildir?",
+            "A": "Avrupa’nın önemli bir bölümünü nüfuzu altına alma",
+            "B": "Ordusunu güçlendirerek savaş sanayisini geliştirme",
+            "C": "Türk Cumhuriyetlerine bağımsızlık verme",
+            "D": "Afganistan’ı işgal etme",
+            "E": "Uzay çalışmalarına başlama"
+
+                
+        }
+      
+       
+    ]
+}
